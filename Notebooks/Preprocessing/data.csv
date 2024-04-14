@@ -1,0 +1,1219 @@
+Timestamp,Age,Gender,Country,family_history,treatment,no_employees,remote_work,tech_company,care_options,leave,mental_health_consequence,phys_health_consequence,mental_vs_physical,obs_consequence
+2014-08-27 11:29:00,37,Female,United States,No,Yes,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 11:29:00,44,Male,United States,No,No,More than 1000,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:29:00,32,Male,Canada,No,No,Jun-25,No,Yes,No,Somewhat difficult,No,No,No,No
+2014-08-27 11:29:00,31,Male,United Kingdom,Yes,Yes,26-100,No,Yes,Yes,Somewhat difficult,Yes,Yes,No,Yes
+2014-08-27 11:30:00,31,Male,United States,No,No,100-500,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 11:31:00,33,Male,United States,Yes,No,Jun-25,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 11:31:00,35,Female,United States,Yes,Yes,01-May,Yes,Yes,No,Somewhat difficult,Maybe,Maybe,Don't know,No
+2014-08-27 11:32:00,39,Male,Canada,No,No,01-May,Yes,Yes,Yes,Don't know,No,No,No,No
+2014-08-27 11:32:00,42,Female,United States,Yes,Yes,100-500,No,Yes,Yes,Very difficult,Maybe,No,No,No
+2014-08-27 11:32:00,23,Male,Canada,No,No,26-100,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 11:32:00,31,Male,United States,No,Yes,Jun-25,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 11:32:00,29,Male,Bulgaria,No,No,100-500,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 11:33:00,42,Female,United States,Yes,Yes,26-100,No,No,Yes,Somewhat difficult,Yes,Yes,No,Yes
+2014-08-27 11:33:00,36,Male,United States,Yes,No,500-1000,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 11:33:00,27,Male,Canada,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 11:34:00,29,Female,United States,Yes,Yes,26-100,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-27 11:34:00,23,Male,United Kingdom,No,Yes,26-100,Yes,Yes,No,Very easy,Maybe,No,No,No
+2014-08-27 11:34:00,32,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-27 11:34:00,46,Male,United States,Yes,No,01-May,Yes,Yes,Not sure,Very easy,No,No,Yes,Yes
+2014-08-27 11:35:00,36,Male,France,Yes,No,Jun-25,Yes,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 11:35:00,29,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Somewhat difficult,Maybe,No,No,No
+2014-08-27 11:35:00,31,Male,United States,No,No,01-May,Yes,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-27 11:35:00,46,Male,United States,No,Yes,26-100,Yes,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-27 11:36:00,41,Male,United States,No,Yes,More than 1000,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:36:00,33,Male,United States,Yes,Yes,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 11:37:00,35,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Very easy,Yes,No,No,No
+2014-08-27 11:37:00,33,Male,United States,No,No,01-May,No,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 11:37:00,35,Female,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 11:38:00,34,Male,United States,No,Yes,26-100,Yes,Yes,Not sure,Somewhat difficult,No,No,No,No
+2014-08-27 11:38:00,37,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very difficult,Yes,Maybe,No,No
+2014-08-27 11:39:00,32,Male,United Kingdom,No,No,Jun-25,Yes,Yes,No,Don't know,Yes,Yes,No,No
+2014-08-27 11:38:00,31,Male,United States,Yes,No,01-May,Yes,Yes,Yes,Somewhat difficult,Yes,No,No,Yes
+2014-08-27 11:39:00,30,Male,United Kingdom,Yes,Yes,500-1000,Yes,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 11:39:00,42,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Very easy,Maybe,No,Don't know,No
+2014-08-27 11:40:00,40,Female,United States,No,Yes,01-May,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-27 11:41:00,27,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-27 11:41:00,29,Male,Canada,No,No,01-May,No,Yes,No,Very easy,Yes,Maybe,Don't know,No
+2014-08-27 11:41:00,38,Male,Portugal,No,No,100-500,No,Yes,Yes,Somewhat easy,Maybe,No,No,No
+2014-08-27 11:42:00,50,Male,United States,No,No,100-500,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-27 11:42:00,35,Male,United States,No,Yes,More than 1000,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 11:42:00,24,Male,United Kingdom,No,Yes,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,No,Yes
+2014-08-27 11:42:00,35,Male,United States,No,No,More than 1000,Yes,Yes,Not sure,Somewhat difficult,Yes,Yes,Don't know,No
+2014-08-27 11:43:00,27,Male,Canada,Yes,Yes,01-May,No,Yes,Yes,Very difficult,Maybe,No,Yes,No
+2014-08-27 11:43:00,18,Male,Netherlands,No,No,Jun-25,No,Yes,Not sure,Somewhat difficult,Yes,Maybe,No,No
+2014-08-27 11:43:00,30,Male,United States,No,Yes,26-100,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 11:43:00,38,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 11:43:00,28,Male,United Kingdom,No,No,26-100,No,Yes,Not sure,Don't know,No,Maybe,Don't know,No
+2014-08-27 11:43:00,34,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 11:43:00,26,Male,Canada,No,No,01-May,No,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 11:44:00,30,Male,United States,Yes,Yes,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:44:00,22,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Very difficult,Maybe,No,Don't know,No
+2014-08-27 11:45:00,33,Male,United States,No,No,100-500,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 11:45:00,31,Male,United States,No,No,100-500,Yes,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 11:45:00,32,Male,United States,No,No,01-May,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:46:00,28,Male,Switzerland,No,No,100-500,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 11:47:00,24,Male,United States,Yes,Yes,26-100,Yes,Yes,No,Don't know,No,Maybe,No,No
+2014-08-27 11:47:00,26,Male,United States,No,No,26-100,No,No,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 11:47:00,33,Male,Canada,Yes,Yes,Jun-25,Yes,Yes,No,Somewhat difficult,Yes,No,Don't know,No
+2014-08-27 11:48:00,44,Male,United States,Yes,Yes,More than 1000,No,No,No,Don't know,Yes,Maybe,Don't know,Yes
+2014-08-27 11:49:00,26,Female,Poland,No,Yes,26-100,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 11:50:00,27,Male,United Kingdom,No,No,100-500,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 11:50:00,26,Male,France,No,No,26-100,No,Yes,No,Very easy,Yes,No,No,Yes
+2014-08-27 11:50:00,35,Male,Canada,No,No,Jun-25,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 11:51:00,40,Male,United States,Yes,No,More than 1000,Yes,Yes,Yes,Don't know,Yes,Maybe,No,Yes
+2014-08-27 11:51:00,23,Female,Australia,Yes,Yes,01-May,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 11:52:00,36,Male,United States,No,No,100-500,Yes,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-27 11:52:00,31,Female,United States,No,No,26-100,Yes,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:52:00,34,Male,United States,No,No,01-May,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:53:00,28,Male,France,No,No,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 11:53:00,34,Male,Canada,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-27 11:56:00,38,Male,United Kingdom,No,No,26-100,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-27 11:56:00,33,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Yes,No
+2014-08-27 11:57:00,19,Male,United Kingdom,No,No,01-May,No,Yes,Yes,Somewhat difficult,Yes,No,No,No
+2014-08-27 11:57:00,25,Male,United States,No,No,More than 1000,Yes,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 11:57:00,31,Male,United States,Yes,No,01-May,Yes,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-27 11:59:00,32,Male,United States,Yes,Yes,26-100,Yes,Yes,No,Somewhat difficult,Yes,No,No,No
+2014-08-27 12:00:00,28,Male,Germany,No,No,Jun-25,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 12:01:00,38,Male,United States,Yes,No,100-500,Yes,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 12:02:00,23,Male,United Kingdom,No,No,26-100,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 12:02:00,30,Male,Canada,No,No,26-100,No,No,No,Don't know,No,No,No,No
+2014-08-27 12:03:00,27,Female,United States,No,Yes,01-May,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,No
+2014-08-27 12:05:00,33,Male,United States,Yes,No,More than 1000,No,Yes,No,Don't know,Yes,No,No,No
+2014-08-27 12:05:00,31,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,No,No,No,No
+2014-08-27 12:07:00,39,Male,United Kingdom,No,Yes,Jun-25,No,Yes,No,Very difficult,Maybe,No,No,Yes
+2014-08-27 12:10:00,34,Female,United States,Yes,Yes,500-1000,Yes,Yes,Not sure,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 12:11:00,29,Female,United States,No,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,No,Yes
+2014-08-27 12:11:00,32,Male,United States,No,No,500-1000,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:12:00,31,Male,United States,No,No,500-1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 12:13:00,40,Male,United States,No,Yes,26-100,No,Yes,Yes,Very difficult,No,No,No,No
+2014-08-27 12:14:00,34,Male,United States,No,No,26-100,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 12:15:00,25,Female,Canada,No,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:15:00,29,Male,United States,No,No,26-100,No,Yes,No,Don't know,No,No,No,No
+2014-08-27 12:16:00,24,Male,United States,Yes,No,26-100,No,Yes,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 12:17:00,31,Male,Mexico,Yes,Yes,Jun-25,No,Yes,No,Don't know,No,No,No,No
+2014-08-27 12:18:00,33,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Somewhat easy,Maybe,No,No,No
+2014-08-27 12:18:00,30,Male,United States,No,Yes,01-May,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 12:18:00,26,Female,Canada,Yes,Yes,26-100,No,No,Yes,Very difficult,Yes,No,No,Yes
+2014-08-27 12:18:00,44,Female,United States,No,No,100-500,No,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 12:19:00,25,Male,United States,Yes,No,26-100,No,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 12:20:00,33,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 12:22:00,29,Male,United States,No,No,More than 1000,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-27 12:23:00,35,Male,United States,Yes,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-27 12:23:00,35,Male,United States,Yes,Yes,26-100,Yes,Yes,Not sure,Somewhat easy,No,No,No,No
+2014-08-27 12:25:00,28,Male,Brazil,Yes,Yes,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,Yes
+2014-08-27 12:28:00,34,Male,United States,Yes,No,Jun-25,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:28:00,32,Male,United States,No,Yes,26-100,No,Yes,No,Somewhat difficult,Maybe,No,Yes,No
+2014-08-27 12:29:00,22,Male,United States,No,Yes,500-1000,No,Yes,Yes,Don't know,Yes,No,No,No
+2014-08-27 12:31:00,28,Male,United States,No,Yes,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 12:31:00,45,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 12:31:00,32,Male,United States,No,No,100-500,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:31:00,28,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:31:00,26,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very easy,No,No,Don't know,Yes
+2014-08-27 12:31:00,21,Male,United Kingdom,No,No,01-May,Yes,No,Yes,Very difficult,Yes,No,No,No
+2014-08-27 12:31:00,27,Male,Canada,No,No,Jun-25,No,No,Yes,Very easy,Maybe,No,Don't know,No
+2014-08-27 12:31:00,18,Male,United States,No,Yes,01-May,Yes,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 12:32:00,35,Male,United States,No,No,26-100,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 12:32:00,29,Male,United States,No,No,More than 1000,No,Yes,Yes,Don't know,Yes,Yes,Don't know,No
+2014-08-27 12:33:00,25,Male,United States,No,No,26-100,Yes,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 12:33:00,33,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 12:33:00,36,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:33:00,27,Male,Canada,No,Yes,100-500,No,No,Not sure,Very difficult,Maybe,No,No,Yes
+2014-08-27 12:34:00,27,Male,United States,Yes,No,500-1000,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 12:34:00,27,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:34:00,32,Male,United States,No,Yes,100-500,No,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-08-27 12:34:00,31,Male,United Kingdom,Yes,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-27 12:34:00,19,Male,Slovenia,No,Yes,Jun-25,No,Yes,No,Somewhat easy,Yes,Yes,Don't know,No
+2014-08-27 12:34:00,33,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Very easy,Maybe,No,No,No
+2014-08-27 12:35:00,32,Male,United States,No,No,01-May,Yes,Yes,Yes,Very difficult,Maybe,No,Don't know,No
+2014-08-27 12:36:00,27,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 12:36:00,38,Male,Costa Rica,No,No,26-100,Yes,Yes,Yes,Somewhat easy,No,No,No,No
+2014-08-27 12:36:00,24,Male,Canada,No,Yes,26-100,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:37:00,39,Male,United Kingdom,No,No,26-100,No,No,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 12:37:00,28,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 12:37:00,39,Male,United States,No,Yes,More than 1000,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-27 12:37:00,29,Female,United States,No,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 12:37:00,22,Male,Austria,No,No,Jun-25,Yes,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 12:38:00,38,Male,United States,Yes,Yes,100-500,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:38:00,37,Male,United Kingdom,No,Yes,More than 1000,No,No,Yes,Very difficult,Yes,Yes,Yes,No
+2014-08-27 12:38:00,35,Male,United States,No,No,26-100,Yes,No,Not sure,Don't know,Yes,No,Don't know,No
+2014-08-27 12:39:00,30,Female,United States,Yes,No,More than 1000,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 12:39:00,37,Male,United States,Yes,Yes,100-500,No,No,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 12:39:00,24,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 12:39:00,23,Male,United States,No,No,Jun-25,No,No,No,Somewhat easy,Yes,Yes,No,No
+2014-08-27 12:40:00,30,Male,Ireland,No,Yes,100-500,No,Yes,Yes,Somewhat easy,Yes,No,No,Yes
+2014-08-27 12:40:00,29,Female,United States,No,No,100-500,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:40:00,19,Male,Canada,Yes,No,01-May,Yes,Yes,Not sure,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 12:40:00,32,Male,United States,Yes,No,26-100,No,Yes,Not sure,Very easy,No,No,No,No
+2014-08-27 12:41:00,28,Male,Poland,No,No,Jun-25,Yes,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 12:41:00,36,Male,United States,No,No,Jun-25,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 12:41:00,37,Male,United Kingdom,Yes,Yes,More than 1000,No,No,Yes,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-27 12:42:00,25,Male,United States,Yes,Yes,26-100,No,No,No,Somewhat difficult,Maybe,No,No,No
+2014-08-27 12:42:00,27,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:43:00,26,Male,United States,No,No,26-100,No,No,Not sure,Don't know,Yes,Maybe,No,No
+2014-08-27 12:43:00,27,Male,United States,No,Yes,26-100,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Don't know,Yes
+2014-08-27 12:43:00,25,Male,United States,Yes,Yes,26-100,No,Yes,Not sure,Very easy,Maybe,No,Don't know,Yes
+2014-08-27 12:43:00,36,Male,United Kingdom,No,Yes,More than 1000,No,No,Yes,Somewhat easy,Maybe,Maybe,Don't know,Yes
+2014-08-27 12:44:00,25,Female,United States,Yes,Yes,500-1000,No,Yes,No,Don't know,Yes,Yes,Don't know,No
+2014-08-27 12:44:00,31,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:45:00,26,Male,United States,Yes,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:46:00,33,Female,United States,Yes,Yes,01-May,No,Yes,Yes,Very difficult,No,No,Yes,No
+2014-08-27 12:47:00,27,Female,United Kingdom,Yes,No,01-May,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 12:48:00,34,Male,United States,No,No,26-100,No,Yes,No,Very easy,Maybe,No,Don't know,No
+2014-08-27 12:48:00,42,Male,United States,No,No,Jun-25,No,Yes,Yes,Very difficult,Maybe,No,No,No
+2014-08-27 12:48:00,23,Male,Ireland,Yes,No,01-May,No,Yes,No,Very difficult,Yes,No,No,No
+2014-08-27 12:48:00,24,Male,United Kingdom,No,No,100-500,No,Yes,Not sure,Very easy,Maybe,Maybe,Don't know,No
+2014-08-27 12:48:00,26,Male,United Kingdom,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-27 12:48:00,31,Male,United Kingdom,No,Yes,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:49:00,22,Male,India,No,Yes,More than 1000,No,Yes,Not sure,Very difficult,Yes,Maybe,No,No
+2014-08-27 12:49:00,23,Female,United States,No,No,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,Yes,No
+2014-08-27 12:49:00,34,Female,Canada,Yes,Yes,More than 1000,No,No,Yes,Somewhat easy,No,No,No,No
+2014-08-27 12:49:00,31,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 12:50:00,28,Male,United Kingdom,No,No,100-500,No,No,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 12:50:00,32,Female,United States,No,Yes,Jun-25,Yes,Yes,Not sure,Very easy,No,No,Yes,Yes
+2014-08-27 12:51:00,45,Female,United States,No,Yes,01-May,No,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-27 12:51:00,33,Male,United States,No,No,Jun-25,Yes,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 12:51:00,29,Male,Mexico,No,No,Jun-25,Yes,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-27 12:51:00,26,Female,India,No,No,Jun-25,No,No,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 12:51:00,28,Female,United Kingdom,No,No,26-100,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 12:51:00,45,Male,United States,No,Yes,More than 1000,No,Yes,Not sure,Don't know,Yes,Yes,Don't know,No
+2014-08-27 12:52:00,43,Male,United States,Yes,Yes,More than 1000,Yes,Yes,Not sure,Very difficult,Yes,Maybe,No,No
+2014-08-27 12:52:00,37,Male,United States,No,No,500-1000,Yes,Yes,No,Don't know,Yes,No,No,No
+2014-08-27 12:52:00,24,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 12:53:00,26,Male,France,No,No,Jun-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 12:53:00,23,Male,United Kingdom,Yes,No,01-May,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:53:00,35,Female,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 12:53:00,38,Female,South Africa,Yes,Yes,01-May,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,Yes
+2014-08-27 12:53:00,28,Male,United States,Yes,Yes,26-100,No,Yes,No,Somewhat easy,Maybe,Maybe,No,No
+2014-08-27 12:54:00,28,Male,Russia,No,No,26-100,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 12:54:00,35,Male,United States,No,Yes,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 12:54:00,32,Female,Germany,No,No,100-500,No,Yes,No,Very difficult,Yes,Yes,No,Yes
+2014-08-27 12:55:00,35,Female,United States,No,No,500-1000,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 12:55:00,26,Male,United States,No,No,More than 1000,No,Yes,No,Somewhat easy,No,No,No,No
+2014-08-27 12:56:00,27,Male,United States,Yes,No,Jun-25,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-27 12:56:00,28,Male,United Kingdom,Yes,Yes,More than 1000,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 12:57:00,27,Female,United States,Yes,Yes,26-100,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 12:57:00,34,Female,United States,No,Yes,500-1000,No,No,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 12:58:00,41,Male,United States,No,Yes,Jun-25,Yes,Yes,Not sure,Very difficult,Maybe,Maybe,Don't know,No
+2014-08-27 12:58:00,37,Male,Ireland,No,No,01-May,No,Yes,Yes,Very difficult,Yes,No,Don't know,No
+2014-08-27 13:00:00,34,Male,Austria,Yes,No,100-500,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 13:02:00,32,Male,United Kingdom,Yes,Yes,100-500,Yes,Yes,Not sure,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-27 13:03:00,21,Male,Canada,No,Yes,Jun-25,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,No
+2014-08-27 13:04:00,30,Male,United States,No,Yes,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 13:04:00,24,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 13:05:00,26,Male,Bulgaria,No,No,100-500,No,Yes,No,Very easy,Yes,Maybe,Don't know,No
+2014-08-27 13:06:00,40,Female,United States,No,No,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 13:06:00,37,Male,United Kingdom,Yes,No,26-100,No,No,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 13:07:00,26,Male,United Kingdom,No,Yes,01-May,Yes,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 13:07:00,32,Female,United States,Yes,Yes,Jun-25,No,Yes,No,Don't know,Yes,Maybe,No,Yes
+2014-08-27 13:07:00,32,Female,United States,No,Yes,100-500,No,No,Yes,Very easy,No,No,Yes,No
+2014-08-27 13:07:00,27,Female,United States,Yes,Yes,01-May,Yes,Yes,No,Very difficult,No,No,Don't know,No
+2014-08-27 13:08:00,30,Male,Germany,No,Yes,Jun-25,Yes,Yes,Yes,Very difficult,No,No,Yes,No
+2014-08-27 13:09:00,31,Male,Canada,No,No,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 13:09:00,29,Female,United States,No,Yes,500-1000,No,No,No,Somewhat difficult,Maybe,No,Don't know,No
+2014-08-27 13:12:00,34,Female,United States,No,No,Jun-25,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-27 13:12:00,33,Male,United Kingdom,No,No,26-100,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 13:14:00,28,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 13:15:00,28,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Very difficult,Yes,No,No,No
+2014-08-27 13:15:00,23,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 13:18:00,24,Male,United States,No,No,01-May,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 13:18:00,32,Male,United States,No,No,01-May,Yes,Yes,Yes,Very difficult,No,No,Yes,No
+2014-08-27 13:19:00,34,Male,Australia,No,No,01-May,Yes,Yes,Not sure,Somewhat difficult,Yes,Yes,Yes,No
+2014-08-27 13:21:00,24,Male,United States,No,No,Jun-25,No,Yes,Not sure,Very easy,Maybe,No,Yes,No
+2014-08-27 13:22:00,26,Male,United Kingdom,No,Yes,01-May,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-27 13:22:00,36,Male,United States,No,Yes,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,Yes
+2014-08-27 13:23:00,41,Male,United States,No,Yes,500-1000,Yes,Yes,Yes,Don't know,Maybe,Maybe,No,No
+2014-08-27 13:24:00,38,Male,United Kingdom,No,Yes,More than 1000,No,No,Not sure,Very difficult,Yes,No,No,No
+2014-08-27 13:24:00,38,Male,United States,No,No,26-100,Yes,Yes,Not sure,Don't know,Maybe,Maybe,No,No
+2014-08-27 13:26:00,30,Male,Netherlands,No,No,26-100,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-27 13:26:00,25,Male,United Kingdom,No,No,26-100,No,Yes,No,Somewhat difficult,Yes,Maybe,No,No
+2014-08-27 13:27:00,37,Male,Canada,Yes,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 13:29:00,34,Male,United Kingdom,Yes,No,Jun-25,No,Yes,No,Somewhat difficult,No,No,No,Yes
+2014-08-27 13:29:00,37,Female,United States,Yes,Yes,More than 1000,No,No,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 13:31:00,28,Female,Canada,Yes,Yes,Jun-25,No,No,Yes,Don't know,No,No,No,Yes
+2014-08-27 13:31:00,22,Male,Sweden,No,No,Jun-25,No,Yes,No,Don't know,No,No,No,No
+2014-08-27 13:32:00,34,Male,United States,Yes,Yes,01-May,No,Yes,No,Somewhat difficult,Maybe,No,No,Yes
+2014-08-27 13:32:00,33,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-27 13:33:00,25,Male,South Africa,No,No,Jun-25,No,Yes,No,Somewhat difficult,Maybe,No,No,No
+2014-08-27 13:34:00,27,Male,United States,No,No,More than 1000,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 13:35:00,40,Male,United States,No,Yes,More than 1000,Yes,Yes,Yes,Don't know,Yes,Maybe,No,Yes
+2014-08-27 13:35:00,21,Male,United States,No,Yes,Jun-25,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 13:37:00,29,Male,United Kingdom,No,No,Jun-25,No,No,No,Very easy,No,No,Yes,No
+2014-08-27 13:37:00,32,Male,United States,Yes,Yes,01-May,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 13:38:00,29,Female,United States,Yes,Yes,500-1000,Yes,No,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 13:39:00,23,Male,United States,Yes,Yes,26-100,Yes,No,No,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 13:40:00,28,Male,United States,Yes,No,100-500,No,Yes,No,Somewhat easy,No,No,Yes,Yes
+2014-08-27 13:42:00,31,Male,United States,Yes,Yes,100-500,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 13:44:00,27,Male,United Kingdom,No,No,100-500,No,No,Not sure,Very easy,Maybe,Maybe,Don't know,No
+2014-08-27 13:44:00,24,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 13:46:00,29,Male,Canada,No,No,Jun-25,No,Yes,No,Somewhat difficult,Yes,No,Don't know,No
+2014-08-27 13:47:00,23,Female,United Kingdom,No,Yes,Jun-25,No,Yes,Not sure,Don't know,Maybe,Maybe,Yes,No
+2014-08-27 13:47:00,42,Male,United States,No,No,Jun-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 13:48:00,24,Male,United Kingdom,No,No,01-May,No,Yes,No,Don't know,Yes,No,No,No
+2014-08-27 13:49:00,25,Male,Australia,Yes,Yes,Jun-25,No,Yes,Yes,Very difficult,Yes,Maybe,No,Yes
+2014-08-27 13:49:00,27,Female,United States,No,Yes,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 13:52:00,27,Male,Canada,No,No,Jun-25,Yes,Yes,Yes,Very difficult,Yes,Yes,No,No
+2014-08-27 13:52:00,30,Male,United States,No,Yes,100-500,Yes,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 13:53:00,29,Male,Poland,Yes,Yes,Jun-25,No,Yes,Yes,Very difficult,Maybe,No,No,No
+2014-08-27 13:53:00,43,Male,Canada,No,No,Jun-25,Yes,Yes,Not sure,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 13:53:00,32,Male,United States,No,No,Jun-25,No,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-27 13:54:00,41,Male,United States,No,Yes,26-100,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 13:54:00,32,Male,United Kingdom,Yes,Yes,01-May,Yes,Yes,Not sure,Very easy,Maybe,Maybe,Don't know,Yes
+2014-08-27 13:55:00,37,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 13:55:00,32,Male,United States,No,No,Jun-25,Yes,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 13:55:00,30,Male,Ireland,No,No,01-May,Yes,Yes,No,Somewhat difficult,No,No,No,No
+2014-08-27 13:56:00,23,Female,United States,Yes,Yes,100-500,No,No,No,Don't know,No,No,Yes,No
+2014-08-27 13:56:00,30,Male,United States,No,No,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 13:59:00,34,Male,United Kingdom,No,No,26-100,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 13:59:00,38,Male,United States,No,Yes,26-100,Yes,Yes,No,Don't know,Yes,No,No,No
+2014-08-27 14:01:00,33,Male,Canada,No,No,100-500,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 14:01:00,34,Male,United States,No,No,26-100,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:01:00,28,Male,Colombia,No,No,Jun-25,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 14:03:00,28,Male,United States,No,Yes,100-500,No,No,Yes,Very easy,Maybe,No,Yes,No
+2014-08-27 14:03:00,23,Male,United States,Yes,No,100-500,No,Yes,No,Don't know,Maybe,No,No,No
+2014-08-27 14:03:00,22,Male,Australia,Yes,Yes,Jun-25,Yes,Yes,Not sure,Somewhat easy,Maybe,No,No,Yes
+2014-08-27 14:06:00,27,Male,Portugal,No,No,Jun-25,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 14:10:00,18,Male,United States,No,Yes,Jun-25,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 14:10:00,35,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat difficult,Yes,No,Don't know,No
+2014-08-27 14:10:00,25,Male,Canada,No,No,100-500,No,No,Not sure,Don't know,No,No,No,No
+2014-08-27 14:11:00,27,Male,United Kingdom,Yes,Yes,Jun-25,No,Yes,No,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-27 14:11:00,26,Female,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:11:00,18,Male,United States,No,No,26-100,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 14:13:00,38,Female,United States,No,Yes,01-May,No,Yes,Yes,Don't know,No,Maybe,Don't know,Yes
+2014-08-27 14:13:00,26,Female,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 14:13:00,30,Male,Switzerland,No,No,01-May,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-27 14:14:00,35,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 14:15:00,45,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:15:00,32,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:15:00,56,Male,United States,No,Yes,More than 1000,No,Yes,Not sure,Don't know,No,Maybe,Don't know,No
+2014-08-27 14:16:00,24,Female,United States,No,No,500-1000,No,Yes,Not sure,Don't know,Maybe,Maybe,No,No
+2014-08-27 14:18:00,30,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 14:18:00,60,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 14:18:00,33,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 14:19:00,37,Male,United States,No,No,More than 1000,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-27 14:19:00,23,Female,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 14:20:00,31,Female,United States,No,Yes,More than 1000,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 14:20:00,26,Male,United States,No,No,100-500,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 14:21:00,28,Female,United States,Yes,Yes,100-500,Yes,No,Yes,Somewhat easy,Yes,No,Yes,No
+2014-08-27 14:21:00,37,Female,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 14:22:00,26,Male,Canada,Yes,Yes,Jun-25,No,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-27 14:22:00,26,Male,United States,No,No,26-100,No,Yes,No,Don't know,No,No,Don't know,Yes
+2014-08-27 14:22:00,25,Male,United States,No,No,26-100,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 14:23:00,27,Male,United States,No,No,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:23:00,25,Male,Canada,No,Yes,Jun-25,Yes,No,No,Somewhat difficult,Yes,Maybe,Don't know,No
+2014-08-27 14:24:00,35,Male,United States,No,Yes,100-500,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 14:25:00,36,Male,United States,No,Yes,01-May,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 14:25:00,26,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Yes,No,No,No
+2014-08-27 14:26:00,27,Male,United States,Yes,No,More than 1000,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 14:27:00,30,Male,United States,No,No,Jun-25,No,No,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 14:27:00,29,Male,United States,No,No,100-500,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:27:00,25,Male,United States,No,No,More than 1000,No,No,Yes,Very easy,No,No,Yes,No
+2014-08-27 14:27:00,22,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,Yes
+2014-08-27 14:28:00,29,Male,Latvia,No,No,26-100,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 14:28:00,41,Male,United States,Yes,Yes,100-500,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 14:28:00,29,Male,United States,No,Yes,More than 1000,No,Yes,No,Don't know,Yes,No,No,No
+2014-08-27 14:28:00,32,Male,United States,No,No,500-1000,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 14:28:00,24,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:29:00,25,Male,United States,No,Yes,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:30:00,25,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:31:00,30,Female,United States,No,No,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 14:31:00,25,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 14:31:00,30,Male,United States,No,No,01-May,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:32:00,33,Male,Germany,Yes,Yes,01-May,No,No,No,Somewhat difficult,Yes,Yes,Yes,Yes
+2014-08-27 14:32:00,24,Male,United States,No,No,26-100,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 14:33:00,25,Male,Canada,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,Maybe,No,No
+2014-08-27 14:34:00,31,Male,United States,No,No,100-500,No,No,No,Somewhat easy,Maybe,No,No,No
+2014-08-27 14:37:00,45,Male,Ireland,No,Yes,01-May,No,Yes,No,Very difficult,No,No,Don't know,No
+2014-08-27 14:37:00,29,Male,Romania,No,No,Jun-25,Yes,No,Yes,Don't know,Maybe,Maybe,No,No
+2014-08-27 14:37:00,46,Male,United States,No,No,26-100,No,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-08-27 14:38:00,30,Male,United Kingdom,No,Yes,26-100,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 14:38:00,29,Female,United States,No,No,More than 1000,No,Yes,Not sure,Very easy,Maybe,Maybe,Don't know,No
+2014-08-27 14:38:00,24,Male,United States,No,No,More than 1000,No,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-08-27 14:38:00,29,Male,United States,No,No,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 14:38:00,35,Male,United States,No,No,26-100,No,No,Not sure,Don't know,No,No,No,No
+2014-08-27 14:39:00,33,Female,United States,Yes,No,26-100,Yes,Yes,Yes,Very difficult,Yes,Maybe,No,No
+2014-08-27 14:39:00,27,Male,United States,No,No,More than 1000,No,Yes,Not sure,Very easy,Yes,No,No,No
+2014-08-27 14:41:00,36,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:41:00,33,Male,United Kingdom,No,No,01-May,Yes,Yes,No,Don't know,Yes,Maybe,No,No
+2014-08-27 14:44:00,25,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-27 14:45:00,23,Male,United States,Yes,Yes,100-500,No,No,No,Don't know,No,No,Don't know,No
+2014-08-27 14:45:00,54,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 14:47:00,22,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:49:00,29,Male,Belgium,No,No,Jun-25,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:49:00,27,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 14:51:00,30,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 14:52:00,26,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:52:00,25,Female,Sweden,Yes,No,Jun-25,No,Yes,Yes,Somewhat easy,No,No,No,No
+2014-08-27 14:53:00,31,Male,United States,No,Yes,500-1000,No,No,Yes,Don't know,No,No,No,No
+2014-08-27 14:54:00,33,Male,United States,Yes,Yes,26-100,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 14:54:00,34,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 14:57:00,34,Male,United States,No,Yes,100-500,Yes,Yes,No,Somewhat easy,Yes,Yes,Don't know,No
+2014-08-27 14:58:00,29,Male,United States,No,No,01-May,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 15:03:00,34,Male,Germany,Yes,Yes,26-100,Yes,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-27 15:04:00,26,Male,United States,Yes,Yes,100-500,Yes,No,No,Don't know,Maybe,No,No,No
+2014-08-27 15:05:00,32,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Don't know,No,No,Yes,No
+2014-08-27 15:09:00,28,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Somewhat difficult,Maybe,Maybe,No,No
+2014-08-27 15:11:00,35,Male,United States,Yes,No,More than 1000,No,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 15:13:00,36,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-27 15:14:00,21,Male,United States,Yes,Yes,100-500,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 15:15:00,21,Male,United Kingdom,No,Yes,Jun-25,No,No,Not sure,Very easy,Yes,No,No,No
+2014-08-27 15:15:00,22,Female,United States,No,No,More than 1000,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-27 15:20:00,41,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Somewhat difficult,Maybe,No,No,Yes
+2014-08-27 15:21:00,55,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 15:22:00,32,Female,United States,No,Yes,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 15:22:00,21,Female,United States,Yes,Yes,26-100,No,Yes,Not sure,Somewhat easy,Yes,No,Don't know,No
+2014-08-27 15:22:00,45,Male,United States,No,Yes,26-100,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:22:00,27,Female,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,Maybe,No,No
+2014-08-27 15:22:00,25,Female,United States,Yes,Yes,26-100,Yes,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-27 15:22:00,34,Female,United States,Yes,Yes,More than 1000,No,No,Yes,Very difficult,Maybe,Maybe,Yes,No
+2014-08-27 15:23:00,26,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:23:00,41,Male,Canada,No,Yes,500-1000,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-27 15:23:00,27,Male,United States,No,Yes,More than 1000,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 15:23:00,31,Male,United States,Yes,Yes,26-100,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 15:23:00,25,Male,Germany,Yes,Yes,26-100,Yes,Yes,No,Somewhat easy,No,No,No,No
+2014-08-27 15:23:00,26,Male,United States,No,Yes,Jun-25,No,Yes,No,Don't know,Yes,Yes,No,No
+2014-08-27 15:23:00,27,Female,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 15:23:00,42,Male,New Zealand,No,No,500-1000,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 15:24:00,25,Female,United States,No,Yes,Jun-25,No,Yes,Not sure,Somewhat difficult,Yes,No,Don't know,No
+2014-08-27 15:24:00,33,Female,Sweden,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:24:00,40,Female,United States,Yes,Yes,More than 1000,No,No,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 15:24:00,31,Male,United States,No,No,More than 1000,No,Yes,No,Somewhat easy,Yes,No,Don't know,No
+2014-08-27 15:24:00,26,Male,Canada,Yes,Yes,26-100,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 15:24:00,24,Female,United States,Yes,No,500-1000,No,No,No,Very difficult,Yes,Maybe,No,Yes
+2014-08-27 15:25:00,29,Male,United States,No,No,More than 1000,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:25:00,48,Male,United Kingdom,No,No,26-100,No,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-27 15:25:00,35,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very difficult,Maybe,Maybe,No,Yes
+2014-08-27 15:25:00,32,Female,United States,No,No,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:25:00,29,Male,Canada,No,Yes,100-500,No,Yes,Not sure,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 15:26:00,26,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Somewhat difficult,Maybe,No,No,No
+2014-08-27 15:26:00,28,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-27 15:26:00,23,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,No,No,No,No
+2014-08-27 15:26:00,35,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Very difficult,Maybe,Maybe,No,Yes
+2014-08-27 15:27:00,29,Male,Germany,Yes,Yes,26-100,No,Yes,No,Very easy,Maybe,No,Don't know,No
+2014-08-27 15:27:00,26,Male,United States,Yes,No,Jun-25,No,Yes,Yes,Very easy,No,No,No,No
+2014-08-27 15:27:00,33,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Don't know,Yes,Maybe,Yes,No
+2014-08-27 15:27:00,33,Male,United States,No,No,More than 1000,Yes,Yes,No,Don't know,Yes,No,Yes,No
+2014-08-27 15:28:00,22,Male,Brazil,No,No,Jun-25,Yes,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 15:28:00,30,Female,Spain,Yes,No,500-1000,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 15:29:00,33,Male,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Somewhat easy,Yes,No,No,No
+2014-08-27 15:29:00,31,Female,United States,Yes,Yes,More than 1000,No,No,Not sure,Very difficult,Yes,Maybe,No,No
+2014-08-27 15:29:00,21,Male,United States,Yes,No,More than 1000,No,Yes,Not sure,Don't know,No,No,Don't know,Yes
+2014-08-27 15:31:00,26,Female,United States,No,Yes,100-500,Yes,Yes,Not sure,Somewhat difficult,No,No,Yes,No
+2014-08-27 15:31:00,30,Male,United States,Yes,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 15:31:00,23,Male,India,No,No,Jun-25,No,Yes,No,Don't know,No,No,No,No
+2014-08-27 15:31:00,34,Male,Finland,No,No,Jun-25,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 15:31:00,55,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Don't know,Yes,Maybe,No,Yes
+2014-08-27 15:32:00,28,Male,Germany,Yes,Yes,01-May,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 15:32:00,26,Male,Uruguay,No,No,26-100,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 15:32:00,28,Male,New Zealand,Yes,Yes,Jun-25,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 15:34:00,32,Male,United Kingdom,Yes,Yes,Jun-25,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 15:34:00,28,Female,United States,No,Yes,More than 1000,No,No,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:34:00,21,Male,United States,No,No,Jun-25,No,No,Not sure,Don't know,No,No,Yes,No
+2014-08-27 15:35:00,24,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Somewhat difficult,Yes,No,No,Yes
+2014-08-27 15:35:00,26,Female,United States,No,No,More than 1000,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:35:00,23,Male,United States,No,No,More than 1000,No,No,No,Don't know,No,No,Don't know,No
+2014-08-27 15:36:00,24,Female,United States,No,No,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 15:36:00,28,Male,Canada,No,No,100-500,Yes,Yes,No,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 15:38:00,24,Female,United States,Yes,Yes,Jun-25,No,Yes,No,Very easy,Yes,No,Yes,No
+2014-08-27 15:38:00,33,Male,United States,No,Yes,01-May,Yes,Yes,No,Somewhat easy,Yes,Maybe,Don't know,No
+2014-08-27 15:38:00,34,Male,United States,No,No,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:38:00,27,Female,United States,No,Yes,26-100,No,Yes,Not sure,Somewhat difficult,Maybe,Maybe,Don't know,No
+2014-08-27 15:38:00,28,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 15:39:00,26,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,No,No,Don't know,Yes
+2014-08-27 15:40:00,20,Male,Australia,No,No,100-500,Yes,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-08-27 15:43:00,23,Female,United States,No,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 15:43:00,29,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 15:43:00,26,Male,United Kingdom,Yes,No,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-27 15:43:00,36,Male,United States,No,No,More than 1000,Yes,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 15:44:00,41,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Yes,Yes
+2014-08-27 15:44:00,33,Female,United States,No,No,100-500,Yes,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 15:46:00,23,Male,Canada,Yes,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 15:46:00,39,Male,United States,Yes,No,More than 1000,No,Yes,No,Don't know,Yes,No,No,Yes
+2014-08-27 15:47:00,34,Male,United States,Yes,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,Yes
+2014-08-27 15:47:00,26,Female,United States,No,Yes,100-500,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-27 15:50:00,24,Male,United States,No,Yes,26-100,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-27 15:51:00,37,Male,Canada,Yes,Yes,More than 1000,No,No,Yes,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 15:53:00,43,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 15:54:00,30,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Very difficult,Yes,No,No,Yes
+2014-08-27 15:55:00,34,Male,United States,No,Yes,Jun-25,No,Yes,Not sure,Don't know,Yes,Yes,Don't know,No
+2014-08-27 15:55:00,27,Male,United States,Yes,Yes,100-500,No,Yes,Not sure,Don't know,Yes,No,Don't know,No
+2014-08-27 15:55:00,36,Male,United States,No,No,More than 1000,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 15:56:00,27,Male,Brazil,No,No,Jun-25,No,Yes,Yes,Somewhat easy,Maybe,No,No,No
+2014-08-27 15:58:00,35,Male,Netherlands,Yes,No,100-500,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 15:59:00,32,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-27 15:59:00,37,Male,United States,No,No,500-1000,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 16:00:00,29,Male,United Kingdom,No,No,26-100,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 16:01:00,28,Male,United States,No,No,Jun-25,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,Don't know,No
+2014-08-27 16:02:00,26,Female,United States,Yes,No,26-100,No,Yes,Not sure,Somewhat difficult,Maybe,Maybe,No,No
+2014-08-27 16:03:00,27,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Somewhat easy,Yes,No,Yes,No
+2014-08-27 16:04:00,38,Male,United Kingdom,No,Yes,26-100,Yes,Yes,No,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-27 16:06:00,57,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-27 16:07:00,28,Male,United Kingdom,No,Yes,More than 1000,No,Yes,No,Very difficult,Yes,Maybe,No,No
+2014-08-27 16:10:00,26,Male,France,No,No,Jun-25,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-27 16:11:00,42,Female,Netherlands,No,Yes,100-500,Yes,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-08-27 16:13:00,31,Male,United States,No,Yes,100-500,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 16:13:00,58,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 16:13:00,29,Male,United States,No,No,Jun-25,No,Yes,No,Very difficult,Yes,No,No,No
+2014-08-27 16:14:00,39,Female,United Kingdom,No,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,No,No,Yes
+2014-08-27 16:14:00,34,Male,United States,No,No,Jun-25,Yes,Yes,No,Very difficult,Maybe,No,Don't know,No
+2014-08-27 16:15:00,57,Male,United States,No,Yes,More than 1000,No,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 16:15:00,27,Male,Germany,Yes,Yes,Jun-25,No,Yes,Not sure,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-27 16:16:00,23,Male,Germany,Yes,Yes,26-100,Yes,Yes,No,Don't know,No,Maybe,Don't know,No
+2014-08-27 16:16:00,18,Male,Finland,No,No,500-1000,Yes,No,No,Very easy,Yes,No,Don't know,No
+2014-08-27 16:17:00,30,Female,United States,No,No,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 16:17:00,23,Male,United States,No,No,26-100,No,No,Not sure,Don't know,No,No,Yes,No
+2014-08-27 16:18:00,43,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Yes,Maybe,Don't know,No
+2014-08-27 16:19:00,18,Female,United Kingdom,Yes,Yes,01-May,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 16:19:00,29,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-27 16:20:00,48,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 16:20:00,43,Male,Germany,No,Yes,26-100,No,No,Yes,Somewhat easy,Maybe,No,No,Yes
+2014-08-27 16:21:00,28,Female,United States,Yes,Yes,26-100,No,Yes,Not sure,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 16:21:00,30,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 16:21:00,26,Male,Israel,No,No,Jun-25,No,Yes,No,Very easy,Maybe,No,Yes,No
+2014-08-27 16:21:00,33,Male,Italy,No,No,Jun-25,No,No,No,Don't know,Maybe,Maybe,No,No
+2014-08-27 16:22:00,31,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 16:22:00,30,Male,United States,No,No,100-500,No,No,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 16:23:00,27,Male,Israel,No,No,26-100,No,Yes,No,Somewhat difficult,Yes,No,No,Yes
+2014-08-27 16:25:00,24,Female,United States,Yes,Yes,01-May,Yes,Yes,No,Don't know,No,No,Don't know,Yes
+2014-08-27 16:26:00,25,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 16:27:00,23,Female,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Yes,Yes
+2014-08-27 16:27:00,36,Male,United States,No,Yes,More than 1000,No,No,Not sure,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-27 16:28:00,25,Female,United States,Yes,Yes,01-May,Yes,Yes,Not sure,Somewhat difficult,Yes,No,No,Yes
+2014-08-27 16:28:00,54,Male,United Kingdom,No,Yes,More than 1000,Yes,No,Yes,Very easy,No,No,No,No
+2014-08-27 16:29:00,34,Male,Netherlands,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 16:29:00,38,Female,United States,No,Yes,26-100,No,Yes,Yes,Don't know,Maybe,Maybe,No,No
+2014-08-27 16:31:00,40,Male,Ireland,Yes,No,More than 1000,No,Yes,No,Don't know,Yes,Maybe,No,Yes
+2014-08-27 16:32:00,32,Male,United Kingdom,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 16:34:00,25,Male,Germany,No,No,More than 1000,No,No,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 16:35:00,35,Female,United States,No,Yes,100-500,No,Yes,Yes,Don't know,Yes,Maybe,No,No
+2014-08-27 16:36:00,46,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-27 16:39:00,42,Male,United States,No,No,100-500,No,No,No,Very difficult,Maybe,No,No,No
+2014-08-27 16:39:00,32,Male,United Kingdom,Yes,Yes,Jun-25,Yes,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 16:40:00,47,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 16:42:00,22,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 16:42:00,33,Female,United States,No,Yes,500-1000,Yes,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-27 16:47:00,25,Female,United States,No,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Yes,No
+2014-08-27 16:53:00,29,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 16:55:00,39,Male,United States,No,No,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 17:00:00,38,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Yes,No,No,No
+2014-08-27 17:03:00,43,Male,United States,No,No,Jun-25,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 17:04:00,46,Male,United States,No,Yes,500-1000,Yes,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 17:08:00,38,Female,United States,Yes,Yes,More than 1000,No,No,Yes,Very easy,Maybe,No,No,Yes
+2014-08-27 17:09:00,33,Male,Germany,No,Yes,Jun-25,No,Yes,Yes,Very easy,Yes,Yes,No,No
+2014-08-27 17:10:00,34,Male,United Kingdom,Yes,Yes,26-100,No,Yes,Yes,Very easy,Maybe,Maybe,No,No
+2014-08-27 17:12:00,62,Male,United States,No,No,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-27 17:14:00,23,Female,United States,No,No,More than 1000,No,No,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 17:15:00,35,Male,United States,No,No,More than 1000,No,No,No,Don't know,Maybe,Maybe,No,No
+2014-08-27 17:19:00,25,Male,Bosnia and Herzegovina,Yes,No,26-100,Yes,Yes,Not sure,Don't know,Maybe,Yes,Don't know,Yes
+2014-08-27 17:22:00,36,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Yes,No
+2014-08-27 17:32:00,41,Female,United States,Yes,Yes,500-1000,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,No
+2014-08-27 17:33:00,24,Male,Austria,No,No,01-May,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 17:33:00,51,Male,New Zealand,No,Yes,26-100,Yes,Yes,Yes,Somewhat difficult,Yes,Yes,Don't know,Yes
+2014-08-27 17:33:00,29,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 17:37:00,31,Female,Canada,Yes,Yes,100-500,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Yes,No
+2014-08-27 17:39:00,27,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 17:41:00,31,Male,Australia,No,Yes,100-500,No,Yes,Yes,Somewhat easy,No,No,No,No
+2014-08-27 17:42:00,27,Female,Hungary,Yes,No,01-May,Yes,Yes,No,Very difficult,Yes,Maybe,No,No
+2014-08-27 17:46:00,23,Male,Sweden,No,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 17:47:00,21,Male,Canada,No,No,26-100,No,Yes,Not sure,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 17:48:00,27,Female,Australia,Yes,Yes,Jun-25,No,Yes,Yes,Somewhat difficult,Yes,No,No,No
+2014-08-27 17:49:00,39,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Somewhat easy,Yes,No,No,No
+2014-08-27 17:49:00,26,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Don't know,Maybe,No,No,No
+2014-08-27 17:52:00,27,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 17:56:00,22,Female,United States,Yes,Yes,500-1000,No,Yes,Yes,Don't know,No,No,No,Yes
+2014-08-27 18:00:00,26,Female,United States,Yes,Yes,100-500,No,No,No,Somewhat difficult,Maybe,No,No,No
+2014-08-27 18:02:00,31,Female,United States,Yes,Yes,100-500,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 18:02:00,32,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 18:12:00,28,Female,United States,Yes,Yes,100-500,Yes,Yes,No,Don't know,Yes,Yes,No,Yes
+2014-08-27 18:14:00,23,Female,United Kingdom,No,No,Jun-25,No,Yes,Not sure,Very easy,Maybe,No,Yes,No
+2014-08-27 18:16:00,30,Male,United Kingdom,No,No,26-100,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 18:18:00,36,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Somewhat difficult,Yes,No,No,No
+2014-08-27 18:22:00,21,Male,United States,Yes,No,More than 1000,No,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 18:29:00,30,Male,Germany,No,No,26-100,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 18:39:00,25,Female,United States,Yes,No,500-1000,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 18:41:00,32,Male,New Zealand,No,Yes,Jun-25,No,Yes,No,Very easy,No,No,Don't know,No
+2014-08-27 18:43:00,29,Female,Canada,No,Yes,01-May,No,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-27 18:59:00,27,Female,New Zealand,Yes,Yes,100-500,Yes,Yes,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 19:05:00,32,Female,Canada,No,Yes,More than 1000,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-27 19:08:00,34,Male,Australia,No,No,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 19:13:00,33,Male,United States,No,No,26-100,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 19:13:00,22,Male,Netherlands,Yes,Yes,Jun-25,Yes,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-27 19:16:00,24,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,Maybe,Yes,No
+2014-08-27 19:17:00,65,Male,United States,No,No,Jun-25,Yes,No,No,Very easy,Maybe,No,Yes,No
+2014-08-27 19:25:00,27,Male,United States,Yes,Yes,100-500,Yes,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 19:27:00,33,Male,Australia,No,No,More than 1000,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 19:28:00,36,Male,United States,No,Yes,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-27 19:34:00,40,Male,Canada,No,No,26-100,No,Yes,No,Somewhat difficult,No,No,No,No
+2014-08-27 19:34:00,28,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat difficult,Maybe,No,No,No
+2014-08-27 19:38:00,39,Male,United States,No,Yes,500-1000,No,Yes,Not sure,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 19:41:00,32,Male,United States,No,Yes,More than 1000,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-27 19:45:00,31,Male,United States,Yes,No,More than 1000,No,Yes,Not sure,Somewhat easy,Maybe,No,No,No
+2014-08-27 19:59:00,38,Male,United States,Yes,Yes,100-500,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 20:13:00,23,Male,United States,Yes,Yes,01-May,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-27 20:17:00,42,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 20:33:00,27,Female,United States,No,No,500-1000,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 20:48:00,26,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat difficult,No,No,No,Yes
+2014-08-27 20:52:00,50,Male,United States,No,No,26-100,Yes,Yes,Yes,Don't know,No,No,No,No
+2014-08-27 20:52:00,37,Male,United States,Yes,No,26-100,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-27 20:53:00,23,Male,United States,No,No,26-100,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 20:55:00,33,Male,United States,Yes,No,Jun-25,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-27 21:05:00,29,Male,Canada,No,No,26-100,Yes,Yes,Yes,Very difficult,Yes,No,No,No
+2014-08-27 21:15:00,34,Male,United States,Yes,Yes,26-100,Yes,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-27 21:17:00,41,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Don't know,Maybe,Maybe,Don't know,Yes
+2014-08-27 21:21:00,50,Male,United States,Yes,No,100-500,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-27 21:35:00,29,Male,Canada,No,Yes,More than 1000,No,No,Not sure,Somewhat difficult,Maybe,No,Don't know,Yes
+2014-08-27 21:39:00,35,Male,United States,No,No,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-27 21:45:00,27,Male,Singapore,No,No,01-May,Yes,Yes,No,Don't know,Yes,No,No,No
+2014-08-27 21:54:00,40,Female,United States,No,No,26-100,No,No,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-27 21:54:00,27,Male,Australia,No,Yes,100-500,Yes,Yes,No,Don't know,Maybe,No,No,Yes
+2014-08-27 21:55:00,29,Female,United States,No,No,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,Yes
+2014-08-27 22:00:00,31,Male,United States,Yes,Yes,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-27 22:04:00,43,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-27 22:04:00,34,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,Yes
+2014-08-27 22:06:00,29,Male,United States,Yes,Yes,26-100,No,Yes,No,Somewhat difficult,Yes,No,Don't know,No
+2014-08-27 22:07:00,19,Male,Canada,Yes,Yes,01-May,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-27 22:11:00,41,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,No,No
+2014-08-27 22:12:00,29,Male,United States,Yes,No,100-500,No,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-27 22:13:00,23,Male,United States,No,No,100-500,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 22:14:00,24,Female,United States,Yes,Yes,100-500,No,Yes,Not sure,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-27 22:14:00,31,Male,United States,No,No,26-100,Yes,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 22:21:00,43,Male,United States,No,No,500-1000,Yes,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-27 22:26:00,31,Male,United States,Yes,Yes,100-500,No,Yes,No,Somewhat difficult,Yes,Yes,No,Yes
+2014-08-27 22:32:00,29,Male,United States,Yes,No,100-500,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-27 22:35:00,35,Male,United States,Yes,No,Jun-25,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-27 22:36:00,33,Male,United States,Yes,Yes,100-500,No,No,Not sure,Somewhat difficult,Yes,Yes,No,No
+2014-08-27 22:55:00,30,Female,United States,Yes,Yes,01-May,Yes,No,Yes,Somewhat difficult,No,No,Yes,No
+2014-08-27 22:59:00,27,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,Maybe,No,No
+2014-08-27 23:09:00,32,Male,United States,No,No,100-500,No,Yes,Yes,Don't know,Maybe,Maybe,No,No
+2014-08-27 23:10:00,50,Male,United States,No,No,01-May,Yes,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-27 23:10:00,24,Male,United States,No,No,26-100,No,No,Not sure,Don't know,Maybe,Yes,No,No
+2014-08-27 23:14:00,27,Male,United States,No,No,26-100,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-27 23:30:00,27,Male,Australia,No,No,01-May,Yes,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-27 23:54:00,32,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-27 23:56:00,42,Male,United States,No,No,Jun-25,Yes,No,Yes,Very easy,No,No,Yes,No
+2014-08-27 23:57:00,37,Male,United States,No,No,More than 1000,No,No,No,Don't know,Maybe,No,No,No
+2014-08-27 23:59:00,30,Male,Singapore,No,No,26-100,No,Yes,Not sure,Somewhat easy,Maybe,No,No,Yes
+2014-08-28 00:02:00,29,Male,United States,No,No,More than 1000,No,Yes,No,Very easy,Yes,Maybe,Don't know,No
+2014-08-28 00:05:00,30,Male,United States,No,Yes,Jun-25,Yes,Yes,Not sure,Somewhat difficult,No,No,Yes,No
+2014-08-28 00:17:00,35,Male,United States,No,No,26-100,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-28 00:43:00,35,Male,United States,Yes,Yes,100-500,Yes,No,Yes,Very difficult,Yes,No,No,No
+2014-08-28 00:47:00,38,Male,Netherlands,Yes,No,26-100,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 01:04:00,22,Male,United Kingdom,Yes,Yes,100-500,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 01:14:00,24,Male,Germany,Yes,No,100-500,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-28 01:19:00,22,Male,Netherlands,No,No,01-May,No,Yes,Not sure,Don't know,No,Maybe,No,Yes
+2014-08-28 01:30:00,31,Female,United States,No,Yes,26-100,Yes,Yes,Yes,Very easy,Maybe,No,Don't know,No
+2014-08-28 01:38:00,23,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Yes,Maybe,Don't know,No
+2014-08-28 01:41:00,31,Female,United States,Yes,Yes,100-500,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 01:56:00,28,Female,United States,Yes,Yes,500-1000,No,Yes,Yes,Somewhat difficult,Maybe,No,No,No
+2014-08-28 02:17:00,34,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Somewhat easy,No,No,No,No
+2014-08-28 02:30:00,28,Male,United States,Yes,Yes,26-100,Yes,Yes,Not sure,Don't know,Yes,No,Don't know,Yes
+2014-08-28 02:32:00,24,Female,United Kingdom,No,Yes,100-500,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 02:46:00,31,Male,Germany,No,No,Jun-25,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 02:49:00,34,Female,United States,No,Yes,100-500,Yes,Yes,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-28 02:52:00,35,Male,Germany,No,Yes,100-500,No,No,No,Very easy,No,No,Yes,No
+2014-08-28 02:54:00,28,Male,Germany,No,No,26-100,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-28 03:05:00,36,Male,Poland,Yes,Yes,Jun-25,No,Yes,No,Somewhat easy,No,No,Yes,Yes
+2014-08-28 03:06:00,30,Male,United Kingdom,No,Yes,26-100,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-28 03:13:00,35,Male,United States,No,No,01-May,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 03:13:00,49,Male,Japan,Yes,Yes,01-May,Yes,Yes,Yes,Somewhat difficult,Yes,Yes,No,Yes
+2014-08-28 03:15:00,36,Male,Germany,No,No,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 03:16:00,35,Male,Germany,No,No,26-100,No,Yes,No,Very easy,Maybe,No,Don't know,No
+2014-08-28 03:29:00,29,Female,Australia,Yes,Yes,More than 1000,No,No,Yes,Somewhat difficult,Yes,No,No,Yes
+2014-08-28 03:36:00,57,Male,United States,No,No,26-100,No,Yes,Yes,Somewhat difficult,Yes,Maybe,Don't know,Yes
+2014-08-28 03:42:00,31,Female,Belgium,Yes,Yes,100-500,No,No,No,Don't know,Maybe,No,Don't know,Yes
+2014-08-28 03:47:00,37,Male,Ireland,No,No,Jun-25,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 03:49:00,25,Male,Ireland,Yes,Yes,26-100,No,Yes,No,Don't know,Maybe,No,No,No
+2014-08-28 03:52:00,30,Male,Australia,No,No,26-100,No,Yes,No,Very easy,No,No,Don't know,No
+2014-08-28 04:00:00,26,Female,Australia,Yes,No,100-500,No,No,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-28 04:02:00,22,Female,Netherlands,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 04:07:00,39,Male,United States,No,No,More than 1000,Yes,No,No,Don't know,No,No,Don't know,No
+2014-08-28 04:09:00,29,Male,United Kingdom,Yes,Yes,100-500,No,Yes,Not sure,Don't know,Maybe,Maybe,No,No
+2014-08-28 04:11:00,54,Male,United Kingdom,Yes,Yes,01-May,Yes,Yes,Not sure,Very easy,No,No,Don't know,Yes
+2014-08-28 04:16:00,34,Female,Australia,Yes,No,500-1000,No,No,No,Don't know,Yes,Maybe,Don't know,Yes
+2014-08-28 04:23:00,32,Male,United States,No,Yes,500-1000,No,No,Not sure,Very easy,Maybe,No,Yes,No
+2014-08-28 04:24:00,25,Male,Nigeria,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 04:30:00,29,Male,Poland,No,No,01-May,No,Yes,No,Somewhat difficult,No,Maybe,Yes,No
+2014-08-28 04:34:00,32,Male,Germany,No,No,01-May,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 04:37:00,30,Male,United Kingdom,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-28 04:53:00,31,Male,Germany,No,No,Jun-25,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-28 05:05:00,20,Female,Switzerland,No,No,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 05:12:00,27,Male,United Kingdom,No,No,01-May,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 05:14:00,32,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 06:02:00,26,Male,Ireland,No,No,01-May,Yes,Yes,No,Somewhat difficult,Maybe,No,Yes,No
+2014-08-28 06:05:00,30,Male,Italy,No,No,More than 1000,No,No,No,Very easy,No,No,Don't know,No
+2014-08-28 06:10:00,30,Male,Ireland,No,Yes,26-100,Yes,Yes,No,Very difficult,Maybe,Maybe,No,No
+2014-08-28 06:11:00,22,Male,India,No,No,01-May,Yes,Yes,No,Very easy,Maybe,Maybe,Yes,Yes
+2014-08-28 06:27:00,24,Male,Ireland,No,No,More than 1000,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 06:30:00,26,Male,Netherlands,No,No,26-100,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 07:01:00,43,Male,France,No,No,100-500,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 07:03:00,26,Male,Russia,No,No,26-100,No,Yes,Not sure,Somewhat difficult,No,No,Don't know,No
+2014-08-28 07:03:00,23,Male,United States,Yes,No,Jun-25,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 07:12:00,26,Male,Canada,No,No,100-500,Yes,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-28 08:00:00,26,Female,Israel,Yes,No,100-500,No,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-28 08:06:00,35,Male,Canada,Yes,No,26-100,No,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-28 08:18:00,28,Male,United States,No,Yes,26-100,Yes,No,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 08:23:00,22,Male,India,No,No,26-100,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 08:39:00,29,Female,United States,Yes,Yes,Jun-25,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-28 08:40:00,29,Male,Germany,No,No,01-May,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 08:43:00,45,Male,United States,No,Yes,01-May,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 08:43:00,33,Male,Bulgaria,No,Yes,26-100,Yes,Yes,No,Somewhat easy,Maybe,No,Don't know,Yes
+2014-08-28 08:43:00,38,Male,United States,No,Yes,More than 1000,No,No,Yes,Don't know,No,No,Don't know,No
+2014-08-28 09:09:00,29,Female,Canada,No,Yes,More than 1000,Yes,No,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-28 09:16:00,21,Female,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 09:18:00,23,Female,India,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 09:40:00,33,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 09:53:00,49,Male,United States,Yes,Yes,100-500,No,Yes,Not sure,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-28 09:53:00,28,Male,United States,No,No,26-100,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 09:54:00,27,Female,United Kingdom,No,Yes,Jun-25,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 09:54:00,23,Male,Canada,No,Yes,Jun-25,No,Yes,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-28 09:54:00,29,Male,Netherlands,No,No,01-May,Yes,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-28 09:54:00,30,Male,Germany,No,No,26-100,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-28 09:55:00,28,Female,Canada,No,No,More than 1000,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-28 09:56:00,32,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Yes,No,No,No
+2014-08-28 09:56:00,32,Male,United Kingdom,No,Yes,26-100,No,No,Yes,Very easy,No,No,Yes,No
+2014-08-28 09:56:00,37,Male,France,No,No,100-500,No,Yes,No,Somewhat easy,Maybe,Maybe,No,No
+2014-08-28 09:56:00,39,Female,United States,No,No,More than 1000,Yes,No,Yes,Very difficult,Yes,Maybe,No,No
+2014-08-28 09:56:00,31,Male,France,No,No,500-1000,No,Yes,No,Don't know,Maybe,Maybe,Yes,No
+2014-08-28 09:57:00,29,Male,United States,No,No,Jun-25,No,Yes,No,Somewhat difficult,Maybe,Maybe,Don't know,No
+2014-08-28 09:57:00,30,Male,United States,No,No,100-500,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 09:57:00,33,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very difficult,No,No,Yes,Yes
+2014-08-28 09:58:00,37,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-28 09:59:00,23,Male,United States,No,Yes,26-100,No,No,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 09:59:00,43,Male,United States,Yes,Yes,26-100,No,No,Not sure,Somewhat easy,Yes,No,No,No
+2014-08-28 10:00:00,32,Male,United Kingdom,No,Yes,100-500,No,Yes,No,Don't know,Maybe,No,No,Yes
+2014-08-28 10:01:00,26,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,Yes,Yes,No,No
+2014-08-28 10:01:00,32,Male,United States,No,Yes,01-May,Yes,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-08-28 10:02:00,37,Female,United States,No,No,26-100,Yes,Yes,Not sure,Don't know,Yes,No,Don't know,No
+2014-08-28 10:02:00,29,Male,United States,No,Yes,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 10:02:00,34,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-28 10:04:00,27,Male,France,No,No,Jun-25,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-28 10:04:00,30,Male,United States,Yes,No,100-500,No,Yes,No,Very easy,No,No,Don't know,No
+2014-08-28 10:05:00,29,Male,United States,No,No,Jun-25,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-28 10:07:00,32,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very difficult,Yes,Maybe,No,No
+2014-08-28 10:08:00,25,Male,Germany,No,No,500-1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-28 10:08:00,37,Male,United States,No,No,Jun-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 10:10:00,29,Male,Netherlands,Yes,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 10:11:00,27,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 10:13:00,33,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 10:15:00,30,Male,Canada,Yes,Yes,More than 1000,No,No,No,Very difficult,Yes,No,No,Yes
+2014-08-28 10:16:00,29,Male,Canada,No,No,01-May,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Don't know,No
+2014-08-28 10:17:00,25,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Don't know,Yes,No,No,No
+2014-08-28 10:18:00,33,Male,United States,Yes,Yes,01-May,No,No,Yes,Don't know,No,No,Don't know,No
+2014-08-28 10:18:00,31,Male,South Africa,No,No,100-500,Yes,Yes,No,Don't know,No,No,No,No
+2014-08-28 10:20:00,21,Male,Germany,No,No,Jun-25,Yes,Yes,No,Very easy,Maybe,Maybe,No,No
+2014-08-28 10:22:00,30,Male,Switzerland,Yes,Yes,26-100,No,Yes,No,Very difficult,Yes,Yes,No,No
+2014-08-28 10:24:00,29,Male,United States,No,No,More than 1000,No,No,Not sure,Don't know,No,No,No,No
+2014-08-28 10:25:00,43,Male,Croatia,No,Yes,01-May,Yes,Yes,No,Very difficult,Yes,No,No,Yes
+2014-08-28 10:29:00,37,Male,United Kingdom,No,Yes,Jun-25,No,Yes,No,Don't know,Yes,No,No,No
+2014-08-28 10:30:00,24,Male,France,No,No,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 10:30:00,29,Male,United States,No,No,Jun-25,Yes,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-08-28 10:34:00,31,Male,United States,No,No,26-100,No,No,Yes,Don't know,No,No,Don't know,No
+2014-08-28 10:42:00,33,Male,United Kingdom,No,No,100-500,No,No,Not sure,Very easy,No,No,No,No
+2014-08-28 10:45:00,43,Male,United States,No,No,More than 1000,No,No,Yes,Don't know,No,No,Don't know,No
+2014-08-28 10:47:00,33,Male,United Kingdom,No,Yes,26-100,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 10:51:00,27,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Yes,No
+2014-08-28 10:52:00,36,Male,United States,Yes,Yes,More than 1000,Yes,No,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 10:54:00,37,Male,Australia,Yes,Yes,26-100,No,Yes,Yes,Very easy,No,No,Yes,Yes
+2014-08-28 10:57:00,32,Male,Belgium,No,No,Jun-25,No,Yes,Yes,Very difficult,Yes,Maybe,No,No
+2014-08-28 11:02:00,39,Male,United Kingdom,No,Yes,100-500,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 11:04:00,31,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Don't know,No
+2014-08-28 11:04:00,36,Male,United States,No,Yes,100-500,Yes,Yes,Yes,Very difficult,Maybe,Maybe,Don't know,No
+2014-08-28 11:07:00,30,Male,United States,No,Yes,26-100,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 11:09:00,28,Male,Canada,No,No,Jun-25,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 11:10:00,32,Male,Italy,No,No,Jun-25,No,Yes,No,Somewhat difficult,Maybe,No,No,No
+2014-08-28 11:14:00,35,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 11:15:00,19,Male,Canada,No,Yes,26-100,No,Yes,Not sure,Somewhat difficult,No,No,Don't know,No
+2014-08-28 11:19:00,33,Male,Norway,Yes,No,26-100,No,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-28 11:20:00,42,Male,Germany,No,No,More than 1000,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 11:21:00,37,Male,United States,Yes,Yes,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 11:21:00,40,Male,Thailand,No,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 11:22:00,36,Male,United States,No,No,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 11:26:00,29,Female,United States,Yes,Yes,26-100,Yes,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 11:27:00,38,Female,United States,Yes,Yes,26-100,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 11:29:00,26,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Somewhat difficult,Yes,Maybe,No,No
+2014-08-28 11:32:00,34,Male,Germany,No,No,26-100,No,Yes,No,Somewhat easy,Maybe,Maybe,Yes,No
+2014-08-28 11:34:00,21,Male,United States,No,Yes,More than 1000,No,No,Yes,Don't know,Yes,No,No,Yes
+2014-08-28 11:36:00,31,Male,Canada,Yes,No,01-May,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 11:38:00,37,Female,United States,Yes,Yes,26-100,No,No,Yes,Don't know,Maybe,Maybe,Yes,No
+2014-08-28 11:40:00,37,Male,Ireland,Yes,Yes,01-May,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 11:44:00,38,Male,Ireland,Yes,Yes,01-May,No,Yes,No,Very difficult,Yes,Yes,No,No
+2014-08-28 11:47:00,27,Female,United States,No,Yes,100-500,No,Yes,Not sure,Somewhat easy,Yes,No,No,No
+2014-08-28 11:48:00,39,Male,Netherlands,No,No,Jun-25,No,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-28 11:50:00,33,Female,United States,Yes,Yes,01-May,No,Yes,Yes,Somewhat easy,Maybe,Yes,No,No
+2014-08-28 11:50:00,27,Male,United Kingdom,No,No,26-100,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-28 11:54:00,36,Female,United States,No,Yes,Jun-25,Yes,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-28 11:58:00,28,Male,United Kingdom,No,No,26-100,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-28 11:59:00,39,Male,United Kingdom,No,Yes,500-1000,No,No,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 12:02:00,33,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,No
+2014-08-28 12:05:00,32,Male,United Kingdom,No,No,More than 1000,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 12:06:00,28,Male,United Kingdom,No,No,More than 1000,No,No,Not sure,Don't know,No,No,No,No
+2014-08-28 12:07:00,37,Male,United Kingdom,Yes,Yes,Jun-25,No,Yes,No,Somewhat easy,Yes,No,No,Yes
+2014-08-28 12:08:00,39,Male,Canada,No,Yes,100-500,No,No,Yes,Very easy,Yes,No,No,Yes
+2014-08-28 12:10:00,27,Female,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 12:12:00,31,Female,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 12:15:00,43,Male,United Kingdom,No,Yes,26-100,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 12:19:00,33,Male,United States,No,Yes,Jun-25,Yes,Yes,Yes,Somewhat difficult,No,No,Don't know,No
+2014-08-28 12:19:00,34,Male,United Kingdom,Yes,Yes,More than 1000,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 12:22:00,33,Male,United States,No,No,01-May,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 12:23:00,25,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 12:30:00,25,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Don't know,Maybe,No,No,Yes
+2014-08-28 12:40:00,32,Male,United Kingdom,Yes,No,01-May,No,Yes,Yes,Somewhat easy,No,No,No,No
+2014-08-28 12:42:00,25,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-28 12:42:00,37,Male,Netherlands,No,No,100-500,Yes,No,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-28 12:44:00,39,Male,Switzerland,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 12:53:00,29,Male,United Kingdom,No,No,100-500,No,Yes,Not sure,Somewhat easy,No,No,Don't know,Yes
+2014-08-28 13:01:00,33,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 13:04:00,37,Female,United States,No,Yes,Jun-25,Yes,Yes,Not sure,Somewhat difficult,Yes,No,No,Yes
+2014-08-28 13:08:00,35,Female,United States,No,Yes,100-500,No,No,No,Very difficult,Yes,Maybe,No,Yes
+2014-08-28 13:11:00,22,Female,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Very difficult,Yes,Maybe,No,Yes
+2014-08-28 13:17:00,38,Male,United States,No,No,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,No,Yes
+2014-08-28 13:26:00,32,Female,United States,Yes,Yes,100-500,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-28 13:32:00,28,Male,Brazil,No,No,26-100,No,Yes,No,Don't know,Maybe,No,No,Yes
+2014-08-28 13:34:00,27,Male,Switzerland,Yes,No,26-100,No,Yes,No,Don't know,Maybe,No,No,No
+2014-08-28 13:35:00,35,Female,United States,No,Yes,100-500,Yes,Yes,No,Very easy,Maybe,No,Yes,No
+2014-08-28 13:39:00,29,Male,United States,No,No,100-500,No,No,Yes,Very easy,Yes,Maybe,Don't know,No
+2014-08-28 13:39:00,23,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 13:40:00,39,Male,United States,No,No,26-100,Yes,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 13:41:00,30,Female,United States,No,No,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 13:47:00,32,Male,United Kingdom,No,No,26-100,No,Yes,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-28 13:48:00,40,Female,United States,Yes,Yes,100-500,No,No,Yes,Don't know,Maybe,No,Don't know,Yes
+2014-08-28 13:54:00,36,Female,United States,Yes,No,Jun-25,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-28 13:57:00,27,Male,United States,No,No,26-100,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-28 14:00:00,41,Male,United States,Yes,No,More than 1000,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-28 14:01:00,29,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 14:02:00,29,Male,United Kingdom,No,Yes,100-500,No,Yes,No,Somewhat difficult,No,No,No,No
+2014-08-28 14:04:00,35,Male,United States,No,Yes,01-May,No,No,No,Very difficult,Yes,No,No,Yes
+2014-08-28 14:12:00,28,Male,United States,No,Yes,Jun-25,Yes,Yes,Yes,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 14:15:00,36,Female,United Kingdom,No,No,01-May,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 14:31:00,39,Female,United States,No,No,26-100,No,Yes,Not sure,Don't know,Yes,No,Don't know,No
+2014-08-28 14:38:00,39,Male,United States,Yes,Yes,500-1000,No,Yes,Yes,Very difficult,Maybe,No,Don't know,No
+2014-08-28 14:41:00,44,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,No
+2014-08-28 14:51:00,35,Male,Denmark,Yes,Yes,01-May,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 14:52:00,40,Female,United States,Yes,Yes,100-500,No,No,Not sure,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 14:53:00,35,Male,Denmark,Yes,Yes,01-May,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 14:53:00,38,Male,United States,No,No,More than 1000,Yes,Yes,Yes,Very difficult,Yes,Yes,Don't know,No
+2014-08-28 14:57:00,34,Male,United States,No,No,More than 1000,Yes,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-28 15:01:00,43,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 15:32:00,20,Male,United States,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-28 15:37:00,40,Male,United States,No,No,01-May,Yes,Yes,Not sure,Somewhat easy,Yes,Maybe,Don't know,No
+2014-08-28 15:40:00,29,Female,United Kingdom,No,Yes,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 15:43:00,35,Male,United States,Yes,Yes,01-May,No,No,Yes,Don't know,No,No,Yes,No
+2014-08-28 15:48:00,29,Male,United States,Yes,No,More than 1000,Yes,No,Yes,Very easy,Maybe,No,Yes,No
+2014-08-28 15:50:00,40,Male,United States,No,No,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 15:50:00,29,Male,Sweden,No,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 15:54:00,29,Female,United States,Yes,Yes,100-500,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 15:56:00,34,Male,United States,No,Yes,01-May,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-28 16:09:00,44,Male,United Kingdom,Yes,Yes,500-1000,No,No,No,Somewhat difficult,Maybe,No,No,Yes
+2014-08-28 16:17:00,24,Female,United States,Yes,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,No,Yes
+2014-08-28 16:31:00,47,Female,United States,No,No,100-500,Yes,Yes,No,Very difficult,Yes,Yes,No,No
+2014-08-28 16:42:00,43,Male,United Kingdom,Yes,No,More than 1000,No,No,No,Very easy,Maybe,No,Don't know,No
+2014-08-28 16:52:00,36,Male,United States,No,No,More than 1000,No,Yes,Yes,Somewhat difficult,No,No,No,No
+2014-08-28 16:52:00,43,Male,United States,No,Yes,More than 1000,No,No,No,Very difficult,Maybe,No,Don't know,No
+2014-08-28 16:52:00,36,Male,United Kingdom,No,No,Jun-25,Yes,Yes,No,Somewhat difficult,No,No,Don't know,Yes
+2014-08-28 16:54:00,31,Female,United States,Yes,Yes,100-500,No,Yes,Yes,Somewhat difficult,No,No,Don't know,No
+2014-08-28 16:55:00,35,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 16:55:00,33,Male,United States,Yes,No,26-100,No,No,No,Somewhat difficult,No,No,Don't know,No
+2014-08-28 16:56:00,37,Male,Italy,No,No,26-100,No,Yes,Not sure,Don't know,Yes,Yes,No,No
+2014-08-28 16:56:00,34,Male,United States,No,Yes,100-500,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 16:56:00,36,Male,Netherlands,No,Yes,01-May,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 16:57:00,40,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 16:57:00,40,Male,United States,No,No,More than 1000,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-28 16:57:00,42,Male,United States,No,Yes,01-May,Yes,Yes,Yes,Somewhat easy,Maybe,No,Don't know,No
+2014-08-28 16:58:00,23,Male,United States,Yes,No,26-100,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-28 16:58:00,21,Male,United Kingdom,Yes,No,Jun-25,No,No,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-28 16:58:00,26,Male,Canada,No,No,Jun-25,Yes,Yes,No,Very difficult,Yes,Maybe,Don't know,No
+2014-08-28 17:01:00,31,Male,United States,Yes,No,Jun-25,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 17:01:00,25,Male,United States,Yes,No,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 17:01:00,51,Male,United States,No,No,More than 1000,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 17:02:00,24,Male,United States,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-28 17:02:00,33,Male,United States,No,No,100-500,No,Yes,No,Don't know,Maybe,No,No,No
+2014-08-28 17:02:00,32,Male,United Kingdom,Yes,Yes,Jun-25,No,No,No,Don't know,Yes,Maybe,No,No
+2014-08-28 17:02:00,32,Male,United Kingdom,Yes,Yes,Jun-25,No,No,No,Don't know,Yes,Maybe,No,No
+2014-08-28 17:03:00,26,Male,United Kingdom,No,Yes,01-May,Yes,Yes,Not sure,Somewhat difficult,No,No,Yes,No
+2014-08-28 17:07:00,23,Male,United States,No,No,100-500,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 17:07:00,33,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Very difficult,Yes,No,No,No
+2014-08-28 17:07:00,46,Male,United States,No,Yes,More than 1000,No,No,Yes,Somewhat easy,Yes,Maybe,Yes,No
+2014-08-28 17:08:00,34,Male,United Kingdom,No,No,Jun-25,Yes,Yes,No,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-28 17:09:00,35,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-28 17:10:00,39,Male,United States,No,No,01-May,Yes,Yes,Yes,Very difficult,Maybe,Maybe,No,No
+2014-08-28 17:10:00,32,Male,Germany,No,No,01-May,Yes,Yes,Yes,Somewhat easy,No,No,No,No
+2014-08-28 17:10:00,43,Male,Mexico,No,No,More than 1000,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 17:11:00,56,Male,United States,No,Yes,More than 1000,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 17:12:00,32,Female,United Kingdom,Yes,Yes,100-500,No,Yes,No,Somewhat difficult,Maybe,No,Don't know,Yes
+2014-08-28 17:14:00,41,Male,United Kingdom,No,No,26-100,No,No,Yes,Don't know,Maybe,Maybe,No,Yes
+2014-08-28 17:16:00,39,Male,United States,No,No,More than 1000,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 17:19:00,37,Male,United States,Yes,No,500-1000,No,No,Yes,Very easy,Maybe,No,No,No
+2014-08-28 17:19:00,30,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Not sure,Very difficult,Yes,No,Don't know,No
+2014-08-28 17:19:00,31,Male,United States,No,No,26-100,No,Yes,No,Somewhat easy,Maybe,No,No,No
+2014-08-28 17:20:00,29,Male,United States,No,No,More than 1000,No,No,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-28 17:20:00,23,Female,United Kingdom,Yes,No,More than 1000,No,No,No,Somewhat easy,Yes,Maybe,Don't know,No
+2014-08-28 17:21:00,31,Male,United States,No,Yes,26-100,No,Yes,Yes,Very easy,Maybe,No,Don't know,No
+2014-08-28 17:21:00,29,Male,United States,Yes,Yes,26-100,No,Yes,Not sure,Don't know,Maybe,No,Yes,No
+2014-08-28 17:22:00,37,Male,United States,No,No,500-1000,Yes,Yes,No,Don't know,Maybe,No,Yes,Yes
+2014-08-28 17:23:00,36,Male,United States,No,No,01-May,No,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-28 17:27:00,35,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Don't know,Maybe,Maybe,No,No
+2014-08-28 17:27:00,41,Male,United States,Yes,No,500-1000,Yes,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-28 17:28:00,31,Male,United Kingdom,No,Yes,Jun-25,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 17:28:00,38,Male,United Kingdom,Yes,No,500-1000,No,No,Yes,Somewhat easy,No,No,No,No
+2014-08-28 17:31:00,26,Male,India,No,No,100-500,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 17:33:00,39,Male,United States,Yes,No,More than 1000,No,Yes,No,Don't know,Maybe,Maybe,Don't know,Yes
+2014-08-28 17:33:00,42,Male,United States,Yes,No,Jun-25,Yes,No,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 17:34:00,32,Male,United States,Yes,Yes,01-May,Yes,Yes,Yes,Very difficult,Yes,No,Don't know,No
+2014-08-28 17:35:00,29,Male,United States,Yes,No,100-500,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-28 17:36:00,30,Male,United States,Yes,No,100-500,No,Yes,No,Very difficult,Yes,Yes,No,No
+2014-08-28 17:39:00,40,Male,United States,Yes,Yes,500-1000,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 17:45:00,51,Male,United States,No,No,100-500,No,No,Not sure,Somewhat difficult,No,No,Don't know,No
+2014-08-28 17:46:00,33,Male,United States,No,No,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 17:47:00,34,Male,Germany,No,Yes,01-May,Yes,Yes,Not sure,Somewhat difficult,Maybe,Maybe,Don't know,No
+2014-08-28 17:47:00,50,Male,United States,No,No,01-May,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 17:50:00,24,Male,United States,No,No,26-100,Yes,Yes,No,Somewhat easy,No,No,No,No
+2014-08-28 17:56:00,25,Male,United States,Yes,Yes,26-100,No,No,No,Don't know,Yes,Maybe,No,No
+2014-08-28 17:57:00,43,Male,United Kingdom,Yes,Yes,26-100,No,Yes,No,Very difficult,Yes,Yes,No,Yes
+2014-08-28 17:57:00,25,Female,United States,No,Yes,01-May,No,Yes,Yes,Very easy,Maybe,Maybe,Yes,Yes
+2014-08-28 17:59:00,24,Male,United Kingdom,No,No,01-May,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 17:59:00,51,Male,United States,No,No,01-May,No,Yes,Yes,Somewhat difficult,No,No,Don't know,No
+2014-08-28 17:59:00,49,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-28 18:01:00,30,Male,United States,No,No,More than 1000,Yes,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 18:02:00,25,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,Yes,No,No
+2014-08-28 18:07:00,36,Male,United States,No,Yes,500-1000,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-28 18:17:00,48,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes
+2014-08-28 18:18:00,48,Male,Australia,No,Yes,Jun-25,No,Yes,No,Somewhat easy,Yes,No,No,Yes
+2014-08-28 18:21:00,53,Male,United States,No,Yes,Jun-25,Yes,Yes,Yes,Don't know,Maybe,Maybe,Don't know,No
+2014-08-28 18:21:00,24,Female,United Kingdom,Yes,Yes,Jun-25,Yes,Yes,No,Very easy,No,No,Don't know,No
+2014-08-28 18:26:00,33,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-28 18:50:00,25,Female,Canada,Yes,Yes,Jun-25,No,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-28 19:03:00,30,Male,United Kingdom,No,Yes,26-100,No,Yes,No,Somewhat difficult,Yes,Maybe,No,No
+2014-08-28 19:04:00,30,Male,United States,No,No,01-May,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-28 19:15:00,34,Male,United Kingdom,No,Yes,01-May,Yes,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-28 19:26:00,31,Male,United States,No,No,More than 1000,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-28 19:28:00,22,Female,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Don't know,Yes,Yes,Don't know,No
+2014-08-28 19:35:00,28,Male,United States,Yes,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-28 20:12:00,35,Male,United States,Yes,Yes,26-100,No,No,Yes,Somewhat difficult,Maybe,No,No,No
+2014-08-28 20:31:00,28,Male,United States,Yes,Yes,26-100,No,No,No,Don't know,Maybe,Maybe,Yes,No
+2014-08-28 20:49:00,42,Male,New Zealand,No,Yes,More than 1000,No,No,Yes,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-28 21:22:00,33,Male,United States,Yes,No,500-1000,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 21:24:00,29,Male,United States,No,No,More than 1000,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 21:27:00,43,Male,United States,Yes,No,500-1000,No,No,Not sure,Don't know,Maybe,No,No,No
+2014-08-28 21:30:00,29,Male,United States,No,No,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-28 21:33:00,25,Male,United States,No,No,100-500,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-28 21:38:00,31,Male,United States,Yes,No,100-500,No,Yes,No,Very easy,No,No,Don't know,No
+2014-08-28 21:41:00,35,Female,United States,Yes,Yes,Jun-25,No,No,Not sure,Somewhat difficult,Maybe,Maybe,Yes,No
+2014-08-28 21:47:00,34,Male,United States,No,No,01-May,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-28 22:16:00,43,Male,United States,No,Yes,100-500,Yes,Yes,Yes,Very difficult,Yes,Maybe,No,Yes
+2014-08-28 22:17:00,38,Male,United States,Yes,Yes,100-500,No,Yes,Not sure,Very difficult,Yes,Yes,No,No
+2014-08-28 22:18:00,26,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Very difficult,Maybe,No,No,Yes
+2014-08-28 22:20:00,38,Male,United Kingdom,Yes,Yes,01-May,Yes,No,No,Very difficult,Maybe,No,No,No
+2014-08-28 22:22:00,42,Male,United States,No,Yes,Jun-25,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-28 22:23:00,33,Male,Netherlands,Yes,Yes,Jun-25,No,Yes,No,Don't know,No,No,Yes,Yes
+2014-08-28 22:35:00,32,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,Don't know,No
+2014-08-28 22:39:00,44,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,No,No
+2014-08-28 22:46:00,28,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-08-28 23:03:00,40,Male,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Very difficult,Yes,No,Don't know,Yes
+2014-08-28 23:13:00,31,Female,United States,Yes,Yes,500-1000,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-28 23:16:00,32,Male,United States,Yes,No,100-500,No,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-08-28 23:57:00,28,Male,United States,Yes,Yes,More than 1000,No,Yes,No,Somewhat easy,Maybe,No,No,No
+2014-08-29 00:05:00,39,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Don't know,Yes,No,No,No
+2014-08-29 00:06:00,45,Male,United States,No,No,More than 1000,No,No,Yes,Don't know,No,No,Yes,No
+2014-08-29 00:11:00,43,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-29 00:41:00,35,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Very difficult,Maybe,Maybe,Don't know,No
+2014-08-29 00:43:00,40,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Very easy,Maybe,No,Don't know,No
+2014-08-29 00:47:00,34,Male,Netherlands,No,Yes,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-29 01:14:00,24,Male,United Kingdom,Yes,Yes,26-100,No,No,Yes,Somewhat easy,Yes,Maybe,No,Yes
+2014-08-29 01:20:00,61,Male,South Africa,No,Yes,01-May,Yes,Yes,No,Very difficult,Yes,Maybe,No,Yes
+2014-08-29 02:10:00,38,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-29 02:24:00,33,Male,Germany,Yes,Yes,26-100,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-29 03:02:00,30,Male,United States,Yes,No,More than 1000,No,No,No,Don't know,Yes,Maybe,No,No
+2014-08-29 03:02:00,34,Male,Netherlands,Yes,Yes,01-May,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-29 03:08:00,26,Male,United States,No,Yes,More than 1000,No,Yes,Not sure,Don't know,No,No,No,No
+2014-08-29 04:39:00,33,Male,United Kingdom,No,No,More than 1000,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-29 04:53:00,32,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very easy,No,No,No,No
+2014-08-29 05:15:00,25,Male,Germany,No,No,Jun-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-29 05:24:00,35,Male,Germany,No,Yes,26-100,Yes,No,No,Somewhat difficult,Yes,Maybe,Don't know,No
+2014-08-29 05:39:00,24,Male,United Kingdom,Yes,No,01-May,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-29 05:47:00,55,Male,United Kingdom,No,Yes,More than 1000,No,No,Yes,Somewhat easy,Yes,Maybe,No,Yes
+2014-08-29 05:54:00,33,Male,United Kingdom,Yes,Yes,01-May,Yes,Yes,Yes,Very difficult,Yes,Maybe,No,Yes
+2014-08-29 05:57:00,26,Female,United Kingdom,Yes,Yes,01-May,Yes,Yes,No,Very easy,Maybe,No,Yes,No
+2014-08-29 06:06:00,25,Male,United Kingdom,No,No,Jun-25,Yes,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-08-29 06:37:00,45,Male,United Kingdom,Yes,No,100-500,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-08-29 06:42:00,33,Female,United Kingdom,No,Yes,01-May,Yes,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-29 07:12:00,43,Male,United States,No,No,More than 1000,Yes,Yes,Not sure,Very difficult,Yes,Maybe,No,Yes
+2014-08-29 07:21:00,30,Male,United Kingdom,No,Yes,Jun-25,No,Yes,Yes,Very difficult,Yes,Yes,Yes,Yes
+2014-08-29 07:28:00,40,Male,United States,Yes,Yes,Jun-25,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-29 07:51:00,49,Male,United States,Yes,No,More than 1000,No,Yes,Yes,Don't know,No,No,Yes,No
+2014-08-29 08:26:00,29,Male,Germany,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-29 08:36:00,26,Male,Germany,No,No,500-1000,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-29 08:46:00,38,Male,United States,No,No,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Yes
+2014-08-29 08:53:00,27,Male,France,Yes,No,500-1000,No,No,Yes,Somewhat easy,Maybe,Maybe,Don't know,Yes
+2014-08-29 08:54:00,26,Male,Belgium,No,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-29 08:57:00,28,Male,United Kingdom,Yes,Yes,26-100,No,Yes,No,Somewhat easy,Maybe,Maybe,No,No
+2014-08-29 08:57:00,40,Male,United States,Yes,Yes,01-May,Yes,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-29 08:59:00,37,Female,Canada,Yes,Yes,01-May,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,Don't know,Yes
+2014-08-29 08:59:00,34,Female,United Kingdom,Yes,Yes,26-100,Yes,No,Yes,Somewhat easy,Yes,Yes,Don't know,No
+2014-08-29 09:01:00,28,Male,United States,Yes,Yes,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-29 09:01:00,27,Male,Canada,No,No,26-100,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-29 09:02:00,29,Male,United Kingdom,No,Yes,Jun-25,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-29 09:02:00,39,Female,United Kingdom,Yes,No,500-1000,Yes,Yes,Not sure,Somewhat difficult,Yes,Yes,No,Yes
+2014-08-29 09:03:00,28,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Somewhat difficult,Yes,No,Yes,No
+2014-08-29 09:10:00,23,Male,United States,Yes,No,26-100,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-29 09:12:00,38,Male,United Kingdom,No,No,01-May,Yes,Yes,No,Somewhat easy,No,No,Don't know,No
+2014-08-29 09:13:00,19,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-29 09:14:00,30,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-29 09:15:00,28,Male,United Kingdom,No,No,01-May,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,No
+2014-08-29 09:15:00,20,Male,India,No,Yes,26-100,No,Yes,No,Don't know,Yes,No,Yes,No
+2014-08-29 09:19:00,35,Male,United Kingdom,No,No,01-May,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-08-29 09:24:00,39,Male,United States,No,Yes,100-500,Yes,Yes,Yes,Very easy,Maybe,No,Don't know,No
+2014-08-29 09:23:00,31,Female,United States,Yes,No,More than 1000,No,No,Not sure,Don't know,Yes,Yes,Don't know,No
+2014-08-29 09:23:00,32,Male,United Kingdom,No,No,500-1000,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-29 09:27:00,27,Male,Sweden,No,No,Jun-25,No,Yes,No,Don't know,No,No,Don't know,No
+2014-08-29 09:29:00,25,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-08-29 09:31:00,42,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-29 09:31:00,34,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-29 09:33:00,26,Female,United States,No,Yes,26-100,Yes,Yes,No,Don't know,Maybe,No,Don't know,Yes
+2014-08-29 09:35:00,35,Male,United Kingdom,Yes,Yes,01-May,No,Yes,Yes,Very easy,Yes,Yes,Yes,Yes
+2014-08-29 09:36:00,34,Male,United Kingdom,No,No,500-1000,No,Yes,No,Very easy,Maybe,No,Yes,No
+2014-08-29 09:36:00,38,Male,United States,Yes,Yes,100-500,Yes,No,Yes,Very easy,No,No,Don't know,No
+2014-08-29 09:40:00,34,Male,United States,No,No,100-500,No,Yes,No,Don't know,Yes,No,Don't know,No
+2014-08-29 09:42:00,39,Male,United States,Yes,Yes,Jun-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-29 09:46:00,44,Female,United States,No,No,100-500,No,Yes,Not sure,Don't know,Yes,No,Don't know,No
+2014-08-29 09:47:00,40,Male,United States,No,No,More than 1000,No,No,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-29 09:47:00,33,Female,United States,No,No,01-May,Yes,Yes,Yes,Somewhat easy,Maybe,No,Yes,No
+2014-08-29 09:51:00,24,Female,United States,Yes,No,More than 1000,No,No,Yes,Somewhat difficult,Yes,Maybe,No,Yes
+2014-08-29 09:53:00,38,Female,United States,Yes,No,26-100,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-29 09:53:00,31,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Yes,Maybe,Yes,No
+2014-08-29 09:54:00,23,Male,Israel,No,No,100-500,No,Yes,Not sure,Very easy,Maybe,No,Don't know,No
+2014-08-29 09:54:00,26,Female,United States,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-29 09:59:00,30,Male,United States,Yes,Yes,26-100,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-29 10:03:00,25,Male,United States,No,No,26-100,Yes,Yes,No,Somewhat easy,Yes,No,Don't know,Yes
+2014-08-29 10:05:00,19,Male,Canada,No,No,26-100,Yes,Yes,No,Somewhat easy,No,No,No,No
+2014-08-29 10:06:00,30,Female,United States,Yes,Yes,500-1000,No,No,Yes,Somewhat easy,Maybe,Maybe,No,Yes
+2014-08-29 10:12:00,32,Male,United States,No,No,Jun-25,No,Yes,Yes,Somewhat easy,No,No,Yes,No
+2014-08-29 10:13:00,32,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-29 10:13:00,37,Male,United States,Yes,No,26-100,Yes,Yes,No,Somewhat easy,Maybe,No,No,No
+2014-08-29 10:16:00,42,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-29 10:27:00,25,Female,United States,No,No,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-29 10:30:00,19,Male,United States,No,No,01-May,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-29 10:32:00,40,Female,United States,Yes,No,100-500,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,No
+2014-08-29 10:33:00,34,Male,United States,No,No,More than 1000,No,No,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-29 10:38:00,26,Male,United States,Yes,No,Jun-25,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-29 10:38:00,31,Male,United States,Yes,Yes,Jun-25,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-29 10:55:00,40,Male,United States,Yes,No,More than 1000,Yes,No,Not sure,Don't know,Yes,Maybe,No,No
+2014-08-29 10:59:00,31,Female,United States,Yes,Yes,26-100,No,Yes,No,Very difficult,Yes,No,No,Yes
+2014-08-29 11:01:00,36,Male,United States,No,No,100-500,No,No,No,Don't know,Yes,Maybe,Don't know,Yes
+2014-08-29 11:02:00,35,Male,Canada,Yes,No,Jun-25,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-29 11:04:00,26,Male,Australia,Yes,Yes,26-100,Yes,Yes,No,Don't know,No,No,Yes,No
+2014-08-29 11:05:00,44,Male,United States,No,No,More than 1000,Yes,No,No,Don't know,Yes,No,No,No
+2014-08-29 11:11:00,34,Female,United States,No,No,01-May,No,Yes,Not sure,Very easy,No,No,Yes,No
+2014-08-29 11:12:00,35,Male,United States,No,No,Jun-25,Yes,Yes,No,Don't know,No,No,Don't know,No
+2014-08-29 11:19:00,28,Female,United States,Yes,Yes,26-100,Yes,Yes,No,Somewhat easy,Yes,No,No,No
+2014-08-29 11:20:00,33,Male,United States,No,No,Jun-25,Yes,Yes,No,Don't know,No,No,Yes,No
+2014-08-29 11:20:00,40,Male,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-08-29 11:20:00,26,Male,United States,No,Yes,Jun-25,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-29 11:22:00,29,Female,United Kingdom,No,Yes,More than 1000,No,No,Yes,Don't know,Maybe,No,No,Yes
+2014-08-29 11:23:00,26,Female,Canada,Yes,Yes,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-29 11:25:00,28,Male,Brazil,Yes,No,100-500,No,Yes,No,Somewhat easy,No,No,Don't know,Yes
+2014-08-29 11:27:00,41,Male,United States,No,Yes,01-May,Yes,No,Yes,Very difficult,No,No,Yes,Yes
+2014-08-29 11:32:00,39,Male,United Kingdom,Yes,Yes,01-May,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes
+2014-08-29 11:32:00,26,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,No,No,No,Yes
+2014-08-29 11:33:00,23,Female,United States,Yes,No,26-100,No,No,No,Somewhat difficult,Yes,No,No,No
+2014-08-29 11:34:00,35,Male,Switzerland,Yes,Yes,More than 1000,No,Yes,Not sure,Very easy,No,No,No,No
+2014-08-29 11:36:00,36,Male,United States,No,No,01-May,Yes,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-08-29 11:39:00,42,Male,United States,No,No,More than 1000,No,No,No,Don't know,Maybe,No,No,No
+2014-08-29 11:40:00,39,Male,United States,Yes,Yes,500-1000,No,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-29 11:43:00,27,Male,United States,No,No,Jun-25,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-08-29 11:44:00,33,Male,United States,No,No,Jun-25,Yes,Yes,No,Very easy,Maybe,No,Yes,No
+2014-08-29 11:53:00,28,Female,United States,No,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Don't know,No
+2014-08-29 11:54:00,29,Female,United States,No,Yes,More than 1000,Yes,No,No,Somewhat easy,No,No,Don't know,No
+2014-08-29 11:56:00,27,Male,United States,No,Yes,100-500,No,Yes,Not sure,Very difficult,Maybe,No,No,No
+2014-08-29 12:00:00,44,Male,United States,No,No,01-May,Yes,Yes,No,Somewhat difficult,No,No,Don't know,No
+2014-08-29 12:08:00,25,Male,United States,No,Yes,Jun-25,Yes,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-29 12:15:00,24,Male,Germany,Yes,Yes,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-08-29 12:20:00,25,Male,South Africa,Yes,Yes,Jun-25,No,No,No,Don't know,No,No,No,Yes
+2014-08-29 12:26:00,34,Male,United States,No,No,Jun-25,Yes,Yes,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-29 12:27:00,26,Male,United States,No,No,More than 1000,No,No,Yes,Somewhat difficult,Maybe,No,Don't know,No
+2014-08-29 12:45:00,48,Male,United States,No,No,26-100,No,No,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-29 12:48:00,34,Male,Greece,No,No,26-100,Yes,Yes,No,Very difficult,Yes,Maybe,No,No
+2014-08-29 12:54:00,39,Female,United States,No,Yes,Jun-25,Yes,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-08-29 13:17:00,43,Male,United States,No,No,More than 1000,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-29 13:23:00,41,Male,United States,No,No,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes
+2014-08-29 13:58:00,25,Male,United States,No,No,More than 1000,No,No,No,Don't know,No,No,Don't know,No
+2014-08-29 14:04:00,31,Male,United States,No,Yes,100-500,No,Yes,Yes,Somewhat easy,Maybe,No,No,No
+2014-08-29 14:09:00,40,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,Yes,No,Yes
+2014-08-29 14:31:00,43,Male,United States,Yes,Yes,01-May,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-08-29 14:51:00,27,Female,United States,Yes,Yes,More than 1000,No,Yes,Yes,Very difficult,Maybe,No,No,Yes
+2014-08-29 14:59:00,37,Female,United States,Yes,Yes,26-100,Yes,Yes,Yes,Don't know,Yes,Maybe,Don't know,No
+2014-08-29 15:10:00,32,Male,Netherlands,No,Yes,01-May,No,Yes,No,Very difficult,Maybe,No,No,No
+2014-08-29 15:59:00,25,Male,United States,Yes,Yes,01-May,No,Yes,Yes,Very easy,Maybe,No,No,No
+2014-08-29 16:07:00,29,Male,Netherlands,Yes,Yes,01-May,No,Yes,Not sure,Very difficult,No,Maybe,Yes,No
+2014-08-29 16:17:00,30,Female,United States,Yes,Yes,More than 1000,No,No,No,Somewhat difficult,Yes,No,No,No
+2014-08-29 16:21:00,34,Female,Canada,Yes,Yes,26-100,No,No,No,Somewhat easy,No,No,Yes,No
+2014-08-29 16:30:00,32,Male,United Kingdom,Yes,Yes,01-May,No,No,Yes,Somewhat easy,Maybe,Maybe,No,No
+2014-08-29 16:50:00,37,Male,Germany,No,No,Jun-25,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-29 16:51:00,41,Male,Germany,No,Yes,More than 1000,No,Yes,No,Somewhat difficult,No,No,Yes,No
+2014-08-29 16:56:00,38,Male,United States,Yes,No,More than 1000,No,No,Not sure,Don't know,Yes,Maybe,No,No
+2014-08-29 17:04:00,32,Male,United States,No,Yes,26-100,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-08-29 17:04:00,28,Female,United States,Yes,Yes,100-500,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2014-08-29 17:32:00,43,Male,United States,Yes,No,100-500,No,No,Yes,Somewhat easy,Maybe,No,No,No
+2014-08-29 17:35:00,32,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Very difficult,Yes,No,No,No
+2014-08-29 17:54:00,25,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,No,Yes,No
+2014-08-29 18:33:00,37,Male,United States,No,Yes,100-500,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-29 18:39:00,36,Male,United States,No,Yes,01-May,No,No,Yes,Very difficult,No,No,No,Yes
+2014-08-29 19:32:00,24,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-08-29 19:34:00,40,Male,United States,Yes,Yes,More than 1000,No,Yes,Not sure,Somewhat difficult,Maybe,No,Don't know,Yes
+2014-08-29 20:53:00,29,Male,United States,No,No,More than 1000,No,No,Not sure,Somewhat easy,No,No,Yes,No
+2014-08-29 20:53:00,43,Male,United States,No,No,500-1000,No,Yes,No,Don't know,No,No,Yes,No
+2014-08-29 21:26:00,29,Male,United States,No,No,Jun-25,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-29 21:28:00,26,Male,United States,Yes,No,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-29 21:40:00,33,Female,Canada,Yes,Yes,01-May,Yes,Yes,Yes,Very difficult,Yes,Yes,No,Yes
+2014-08-29 22:08:00,35,Female,United States,Yes,No,Jun-25,Yes,Yes,No,Somewhat easy,No,No,Yes,No
+2014-08-29 23:51:00,45,Male,United States,No,No,Jun-25,Yes,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-08-30 00:09:00,25,Male,United States,No,Yes,Jun-25,Yes,Yes,Yes,Somewhat easy,Maybe,No,Don't know,No
+2014-08-30 03:55:00,50,Male,France,No,Yes,26-100,Yes,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2014-08-30 05:05:00,26,Male,Australia,Yes,Yes,26-100,No,Yes,No,Very easy,No,No,Yes,No
+2014-08-30 05:47:00,33,Female,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-08-30 06:48:00,30,Male,India,No,No,Jun-25,No,Yes,No,Very easy,Maybe,Maybe,Don't know,No
+2014-08-30 07:31:00,33,Male,Croatia,Yes,Yes,Jun-25,Yes,Yes,Yes,Very easy,No,No,Yes,No
+2014-08-30 11:48:00,29,Male,France,No,Yes,Jun-25,No,Yes,No,Somewhat easy,Maybe,Maybe,No,No
+2014-08-30 12:35:00,37,Male,Germany,No,No,Jun-25,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-30 13:23:00,25,Male,United States,Yes,Yes,01-May,Yes,Yes,No,Very easy,No,No,Don't know,No
+2014-08-30 13:48:00,40,Male,United States,No,No,More than 1000,No,No,Not sure,Somewhat easy,Maybe,No,Don't know,No
+2014-08-30 13:55:00,24,Male,Canada,No,No,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,Yes
+2014-08-30 14:00:00,40,Male,United Kingdom,No,Yes,100-500,No,Yes,Not sure,Very easy,Maybe,No,Don't know,No
+2014-08-30 15:57:00,46,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Don't know,Yes,Maybe,Don't know,No
+2014-08-30 16:13:00,38,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Somewhat easy,Yes,No,Don't know,No
+2014-08-30 16:38:00,34,Male,United States,No,No,01-May,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,No
+2014-08-30 18:29:00,32,Male,United Kingdom,No,Yes,01-May,No,Yes,Yes,Very easy,No,No,No,Yes
+2014-08-30 19:35:00,44,Male,United Kingdom,No,Yes,More than 1000,No,No,No,Don't know,Maybe,No,No,No
+2014-08-30 19:56:00,33,Female,United Kingdom,No,Yes,100-500,No,Yes,Not sure,Very easy,Maybe,No,No,No
+2014-08-30 20:12:00,45,Female,United States,No,Yes,26-100,No,No,No,Don't know,No,No,Don't know,No
+2014-08-30 20:19:00,35,Male,United States,No,No,Jun-25,No,Yes,Not sure,Don't know,No,No,Yes,No
+2014-08-30 20:43:00,26,Male,Germany,Yes,Yes,01-May,No,Yes,No,Don't know,Maybe,No,No,Yes
+2014-08-30 20:46:00,20,Female,United States,No,Yes,26-100,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2014-08-31 04:31:00,37,Male,Netherlands,Yes,No,Jun-25,No,Yes,No,Somewhat easy,Maybe,No,Yes,No
+2014-08-31 09:19:00,28,Male,United States,No,No,More than 1000,No,No,No,Somewhat easy,Maybe,No,No,No
+2014-08-31 15:03:00,42,Female,United States,Yes,Yes,26-100,No,No,Yes,Don't know,Yes,No,No,No
+2014-08-31 15:23:00,32,Male,United Kingdom,No,No,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,Yes
+2014-08-31 16:48:00,36,Female,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Don't know,No
+2014-08-31 22:11:00,27,Male,New Zealand,No,No,26-100,No,Yes,Yes,Somewhat difficult,Yes,No,No,Yes
+2014-08-31 22:16:00,27,Male,New Zealand,No,No,26-100,No,Yes,Yes,Somewhat difficult,Yes,No,No,Yes
+2014-01-09 04:28:00,27,Male,United Kingdom,No,Yes,More than 1000,No,No,No,Somewhat easy,Maybe,No,No,No
+2014-01-09 06:52:00,25,Male,United Kingdom,Yes,Yes,26-100,Yes,Yes,No,Very easy,No,No,Yes,No
+2014-01-09 06:53:00,41,Male,United Kingdom,Yes,No,Jun-25,No,Yes,No,Somewhat difficult,Maybe,Maybe,Don't know,No
+2014-01-09 08:19:00,23,Male,Germany,Yes,Yes,Jun-25,No,Yes,Not sure,Somewhat easy,Maybe,No,Don't know,No
+2014-01-09 08:23:00,21,Male,United Kingdom,No,Yes,More than 1000,No,No,No,Don't know,Maybe,No,Don't know,No
+2014-01-09 09:12:00,26,Male,Moldova,No,Yes,26-100,No,Yes,Yes,Very difficult,No,No,Don't know,No
+2014-01-09 09:15:00,29,Male,Sweden,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,Yes
+2014-01-09 10:06:00,28,Male,Belgium,No,No,More than 1000,No,No,No,Somewhat easy,Yes,Maybe,Don't know,Yes
+2014-01-09 10:40:00,27,Female,United Kingdom,Yes,No,More than 1000,No,No,Yes,Don't know,Maybe,No,Yes,No
+2014-01-09 12:00:00,23,Male,Israel,No,No,More than 1000,No,No,Yes,Somewhat difficult,No,No,Yes,No
+2014-01-09 12:45:00,26,Female,United States,Yes,No,26-100,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-01-09 17:59:00,38,Male,United Kingdom,Yes,Yes,01-May,No,Yes,Not sure,Very easy,No,No,Don't know,No
+2014-01-09 21:03:00,39,Male,United Kingdom,Yes,Yes,More than 1000,No,No,No,Very easy,Maybe,Maybe,Yes,No
+2014-01-09 21:34:00,35,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Somewhat easy,Yes,No,Don't know,No
+2014-01-09 22:58:00,32,Male,United States,No,No,Jun-25,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-02-09 03:13:00,32,Male,United States,No,Yes,More than 1000,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,Don't know,Yes
+2014-02-09 04:00:00,26,Male,United Kingdom,No,No,Jun-25,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2014-02-09 08:00:00,38,Male,Canada,Yes,Yes,100-500,No,Yes,Not sure,Don't know,No,No,No,No
+2014-02-09 08:24:00,34,Female,United Kingdom,Yes,No,26-100,No,No,Yes,Very easy,No,No,Yes,No
+2014-02-09 09:57:00,39,Male,United States,Yes,Yes,26-100,No,No,Not sure,Somewhat easy,Yes,No,Don't know,No
+2014-02-09 13:18:00,32,Male,Canada,No,No,Jun-25,Yes,Yes,Not sure,Very easy,No,No,Yes,No
+2014-02-09 17:04:00,37,Male,Netherlands,No,No,01-May,Yes,Yes,Not sure,Very easy,Yes,Yes,Don't know,No
+2014-02-09 20:23:00,31,Male,United Kingdom,Yes,Yes,Jun-25,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2014-02-09 20:57:00,30,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Don't know,No,No,Don't know,No
+2014-03-09 01:32:00,51,Male,Singapore,No,No,More than 1000,Yes,Yes,No,Don't know,Yes,No,No,No
+2014-03-09 13:09:00,29,Male,United States,No,Yes,26-100,No,Yes,Yes,Don't know,Yes,No,Don't know,No
+2014-04-09 06:23:00,31,Male,United Kingdom,No,No,100-500,No,Yes,No,Don't know,Maybe,Yes,Yes,No
+2014-04-09 08:35:00,31,Male,India,No,No,26-100,No,Yes,Not sure,Don't know,Yes,Yes,Don't know,No
+2014-04-09 17:38:00,26,Male,United States,Yes,Yes,Jun-25,Yes,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2014-04-09 23:42:00,46,Female,United States,No,Yes,100-500,Yes,No,Yes,Don't know,Maybe,No,No,No
+2014-05-09 14:15:00,32,Male,United States,Yes,No,More than 1000,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-05-09 14:19:00,29,Male,United States,Yes,Yes,26-100,No,No,Yes,Don't know,Maybe,No,Don't know,No
+2014-08-09 00:52:00,34,Male,Poland,No,No,More than 1000,Yes,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2014-08-09 16:46:00,26,Male,Colombia,No,No,Jun-25,No,Yes,No,Very difficult,Yes,No,Yes,No
+2014-08-09 21:30:00,32,Female,United States,No,Yes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,No,No
+2014-09-09 13:49:00,29,Male,United States,No,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,No,No
+2014-11-09 17:00:00,30,Male,United States,No,No,More than 1000,No,No,No,Don't know,Yes,Maybe,Don't know,No
+2014-12-09 19:18:00,40,Female,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes
+2014-09-13 07:52:00,23,Male,United Kingdom,No,Yes,01-May,No,Yes,No,Very difficult,Maybe,No,No,Yes
+2014-09-14 09:04:00,20,Male,Georgia,No,No,26-100,No,No,No,Very difficult,Yes,Yes,No,No
+2014-09-14 20:50:00,38,Male,United States,Yes,No,Jun-25,No,Yes,No,Somewhat difficult,No,No,Don't know,Yes
+2014-09-20 13:51:00,26,Female,United States,Yes,Yes,100-500,No,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-09-23 20:05:00,29,Male,United States,No,No,26-100,No,Yes,No,Don't know,No,No,No,Yes
+2014-09-26 08:45:00,40,Male,China,No,No,01-May,Yes,Yes,Yes,Somewhat easy,No,No,Don't know,No
+2014-09-26 10:05:00,25,Female,Bulgaria,No,Yes,26-100,Yes,Yes,No,Don't know,Maybe,Maybe,No,No
+2014-09-26 21:25:00,32,Female,United States,No,Yes,26-100,No,Yes,Yes,Don't know,Maybe,Maybe,No,No
+2014-09-30 09:19:00,38,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Don't know,Maybe,No,No,Yes
+2014-02-10 21:25:00,72,Female,United States,Yes,Yes,500-1000,Yes,No,Not sure,Somewhat easy,Maybe,Maybe,Don't know,Yes
+2014-05-10 21:16:00,35,Female,United States,Yes,Yes,01-May,Yes,Yes,No,Don't know,Maybe,Maybe,Yes,No
+2014-09-10 11:14:00,28,Female,United States,No,Yes,Jun-25,No,Yes,Yes,Very difficult,Yes,Maybe,Don't know,No
+2014-06-11 11:24:00,56,Female,United States,No,No,01-May,Yes,Yes,Not sure,Don't know,Maybe,Maybe,Don't know,No
+2014-11-16 08:42:00,38,Male,United States,Yes,Yes,26-100,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2014-01-12 09:58:00,31,Female,Belgium,No,No,26-100,No,Yes,Not sure,Very easy,Maybe,No,Don't know,No
+2014-12-15 00:43:00,40,Male,United States,Yes,Yes,Jun-25,No,Yes,Yes,Don't know,Maybe,No,Yes,No
+2015-03-01 03:38:00,44,Male,United States,Yes,Yes,100-500,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2015-02-21 04:16:00,34,Male,Canada,Yes,No,More than 1000,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2015-02-21 04:16:00,37,Male,United Kingdom,No,No,26-100,Yes,Yes,No,Somewhat easy,No,No,Don't know,No
+2015-02-21 04:18:00,38,Male,Italy,No,No,26-100,No,Yes,Not sure,Don't know,No,No,No,No
+2015-02-21 04:19:00,27,Male,Germany,No,No,26-100,No,Yes,Not sure,Don't know,No,No,Don't know,No
+2015-02-21 04:23:00,34,Female,Ireland,No,Yes,500-1000,No,No,Yes,Don't know,Yes,Yes,Yes,No
+2015-02-21 04:32:00,35,Female,Ireland,No,No,01-May,No,Yes,No,Don't know,Maybe,No,No,No
+2015-02-21 04:34:00,34,Male,Ireland,No,Yes,Jun-25,No,Yes,No,Somewhat difficult,Yes,Maybe,No,No
+2015-02-21 04:41:00,32,Male,United States,No,Yes,26-100,Yes,Yes,Not sure,Very difficult,Yes,Maybe,Don't know,No
+2015-02-21 04:51:00,25,Male,Ireland,No,No,100-500,No,Yes,Not sure,Don't know,Maybe,No,Don't know,No
+2015-02-21 04:55:00,28,Male,Australia,No,Yes,100-500,Yes,Yes,Yes,Don't know,Yes,No,No,No
+2015-02-21 05:11:00,28,Female,United States,No,Yes,Jun-25,No,Yes,No,Somewhat easy,Yes,Yes,No,Yes
+2015-02-21 05:34:00,31,Male,Brazil,No,Yes,01-May,No,Yes,Yes,Don't know,No,No,Don't know,No
+2015-02-21 05:55:00,24,Male,United Kingdom,No,No,100-500,No,Yes,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2015-02-21 05:55:00,34,Male,Ireland,Yes,Yes,01-May,Yes,Yes,No,Don't know,Maybe,No,Don't know,No
+2015-02-21 06:06:00,32,Male,Ireland,No,Yes,Jun-25,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2015-02-21 06:19:00,34,Male,United Kingdom,Yes,No,26-100,Yes,No,Not sure,Somewhat easy,Maybe,No,Yes,No
+2015-02-21 08:21:00,23,Male,United States,No,Yes,01-May,No,Yes,Yes,Very easy,Maybe,Maybe,No,No
+2015-02-21 08:54:00,33,Male,Czech Republic,Yes,No,100-500,No,Yes,Yes,Somewhat easy,No,No,Don't know,Yes
+2015-02-21 08:56:00,29,Male,Singapore,Yes,Yes,26-100,No,Yes,Not sure,Somewhat difficult,Maybe,No,No,No
+2015-02-21 09:10:00,24,Male,Ireland,Yes,No,01-May,No,Yes,No,Don't know,Maybe,Maybe,Don't know,No
+2015-02-21 09:16:00,45,Male,Ireland,No,No,More than 1000,Yes,Yes,Not sure,Don't know,Yes,No,No,Yes
+2015-02-21 09:18:00,34,Female,United Kingdom,No,Yes,More than 1000,No,No,Yes,Somewhat difficult,Maybe,Maybe,No,Yes
+2015-02-21 09:19:00,31,Male,Philippines,No,No,More than 1000,No,Yes,No,Very difficult,Yes,Yes,No,Yes
+2015-02-21 09:22:00,33,Male,United States,No,Yes,26-100,Yes,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2015-02-21 09:29:00,28,Male,Netherlands,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2015-02-21 09:30:00,27,Male,United Kingdom,No,No,More than 1000,Yes,No,Not sure,Don't know,No,No,Don't know,No
+2015-02-21 09:30:00,42,Male,Ireland,No,No,26-100,No,Yes,Yes,Somewhat difficult,Yes,Yes,No,No
+2015-02-21 09:33:00,28,Male,Netherlands,No,No,Jun-25,No,Yes,Not sure,Somewhat easy,Maybe,Maybe,Don't know,No
+2015-02-21 09:48:00,38,Male,United States,No,Yes,More than 1000,Yes,Yes,No,Very easy,No,No,Don't know,No
+2015-02-21 10:00:00,46,Male,United States,Yes,Yes,26-100,No,Yes,No,Don't know,Maybe,No,No,No
+2015-02-21 10:45:00,46,Male,United States,Yes,Yes,100-500,Yes,Yes,Not sure,Don't know,No,No,Don't know,No
+2015-02-21 11:48:00,41,Female,Netherlands,No,Yes,01-May,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No
+2015-02-21 13:19:00,24,Male,Ireland,Yes,Yes,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,Yes
+2015-02-21 15:28:00,23,Female,Ireland,No,Yes,26-100,No,Yes,Yes,Don't know,No,No,Don't know,No
+2015-02-21 17:19:00,39,Male,Netherlands,No,No,More than 1000,No,No,Not sure,Somewhat easy,Maybe,Maybe,Yes,No
+2015-02-21 18:54:00,32,Female,Ireland,Yes,No,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2015-02-21 18:59:00,25,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Somewhat easy,Yes,No,Don't know,No
+2015-02-22 02:40:00,39,Male,Greece,No,No,Jun-25,Yes,Yes,No,Don't know,Yes,No,Don't know,No
+2015-02-24 08:54:00,23,Female,United Kingdom,Yes,Yes,Jun-25,No,Yes,Yes,Very easy,No,No,Yes,No
+2015-02-24 08:58:00,24,Male,United Kingdom,No,Yes,Jun-25,Yes,Yes,No,Don't know,Maybe,Maybe,Don't know,Yes
+2015-02-24 09:00:00,25,Male,United Kingdom,Yes,Yes,More than 1000,No,No,Yes,Very easy,No,No,Yes,No
+2015-02-24 09:13:00,23,Male,United Kingdom,No,Yes,Jun-25,No,Yes,Yes,Don't know,No,No,Don't know,No
+2015-02-24 09:18:00,23,Male,Canada,No,Yes,26-100,No,Yes,Yes,Don't know,Maybe,No,Don't know,No
+2015-02-24 10:32:00,60,Male,United States,No,Yes,More than 1000,Yes,Yes,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2015-02-26 05:44:00,28,Male,Ireland,No,No,26-100,No,Yes,Yes,Don't know,Yes,Maybe,No,Yes
+2015-02-04 15:47:00,28,Male,United States,Yes,Yes,More than 1000,No,No,Yes,Somewhat easy,Yes,Maybe,No,Yes
+2015-04-04 11:22:00,30,Male,Netherlands,No,No,500-1000,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2015-06-04 14:58:00,31,Male,Germany,Yes,Yes,100-500,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2015-11-04 14:35:00,31,Male,Poland,No,Yes,Jun-25,Yes,Yes,No,Somewhat easy,Maybe,No,Don't know,No
+2015-04-23 14:03:00,28,Male,Ireland,No,Yes,26-100,No,Yes,No,Don't know,Maybe,No,Don't know,No
+2015-05-05 14:22:00,43,Female,United States,Yes,Yes,More than 1000,Yes,Yes,Yes,Don't know,No,No,Don't know,No
+2015-05-05 15:16:00,32,Female,United Kingdom,No,No,More than 1000,No,No,No,Don't know,Maybe,No,No,No
+2015-06-05 10:14:00,22,Male,Australia,Yes,Yes,100-500,No,No,Yes,Don't know,Maybe,Maybe,Don't know,Yes
+2015-06-05 16:55:00,32,Male,United States,No,No,100-500,No,Yes,Not sure,Somewhat easy,No,No,Don't know,No
+2015-07-05 10:08:00,36,Male,Finland,No,Yes,Jun-25,No,Yes,No,Very difficult,Yes,No,Don't know,Yes
+2015-06-25 12:24:00,41,Female,United States,Yes,Yes,26-100,No,Yes,No,Don't know,Yes,Maybe,Don't know,No
+2015-07-22 18:57:00,30,Male,United States,Yes,Yes,26-100,No,Yes,Yes,Very easy,No,No,Yes,No
+2015-07-27 23:25:00,30,Male,United States,Yes,Yes,26-100,No,Yes,Not sure,Don't know,No,No,Yes,No
+2015-08-17 09:38:00,36,Male,South Africa,Yes,Yes,100-500,No,No,Yes,Somewhat easy,No,No,Yes,No
+2015-08-20 16:52:00,29,Male,United States,Yes,Yes,100-500,Yes,Yes,Yes,Don't know,Yes,No,No,No
+2015-08-25 19:59:00,36,Male,United States,Yes,No,More than 1000,No,No,No,Somewhat easy,Maybe,Maybe,Don't know,No
+2015-12-09 11:17:00,26,Male,United Kingdom,No,Yes,26-100,No,Yes,No,Somewhat easy,No,No,Don't know,No
+2015-09-26 01:07:00,32,Male,United States,Yes,Yes,26-100,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,No
+2015-07-11 12:36:00,34,Male,United States,Yes,Yes,More than 1000,No,Yes,Yes,Somewhat difficult,Yes,Yes,No,No
+2015-11-30 21:25:00,46,Female,United States,No,No,100-500,Yes,Yes,Yes,Don't know,Yes,No,No,No
+2016-01-02 23:04:00,25,Male,United States,Yes,Yes,26-100,No,No,Yes,Don't know,Maybe,No,Don't know,No
